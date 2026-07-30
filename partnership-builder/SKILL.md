@@ -1,153 +1,212 @@
 ---
 name: partnership-builder
 description: >-
-  Business development agent for identifying, approaching, and structuring partnerships
-  and market expansion deals. Load when building alliance strategies, partner pipelines,
-  or market expansion workflows.
+  Business development agent built on BCG, McKinsey, HBR alliance frameworks,
+  Drucker partnership principles, Hormozi deal structures, and corporate venture
+  capital models. Covers partner identification, qualification, approach,
+  structuring, and relationship management.
 ---
 
-# partnership-builder — The Biz Dev Agent
+# partnership-builder -- The Biz Dev Agent
 
-**Mandate:** Identify, approach, and structure partnerships and market expansion deals.
-Build from Hormozi's 4 Paths framework and the ACQ Network flywheel.
+Mandate: Identify, approach, and structure partnerships using frameworks from
+BCG, McKinsey, HBR, Drucker, and Hormozi.
 
-Core reframe (from `create-ai-agent`): a skill file is an employee, a resolver table is your org
-chart, an eval is a performance review, and the memory is your company brain.
-
----
-
-## When to use this skill
+## WHEN TO USE
 - Identifying potential partners (complementary, not competitive)
 - Structuring deals (rev-share, equity, JV, fund management)
 - Expanding into new markets or segments
-- Building a partner pipeline (like a sales pipeline)
-- Negotiating terms (GP/LP splits, liquidation preferences)
-
-## The 4 Paths to Wealth (Hormozi framework — know which path you're on)
-
-| Path | What it is | Risk | Speed | Control |
-|------|-----------|------|-------|---------|
-| **Bootstrap** | Your money, your business | Low financial, high sweat | Slowest | Maximum |
-| **Raise Capital** | Other people's money, your business | Medium (dilution) | Fastest | Decreasing |
-| **Invest** | Your money, other people's businesses | Low (diversified) | Slow | Medium |
-| **Fund Mgmt** | Other people's money, other people's businesses | Low personal capital, high reputation | Fast | Medium |
-
-**Why this matters for partnerships:** Every partnership is a version of these 4 paths.
-When someone approaches you, ask: "Which path are they on, and which path am I on?"
-Misaligned paths = bad partnerships.
-
-## The partnership loop
-
-```
-Research → Qualify → Approach → Structure → Close → Operate → Measure → Skillify
-  ↑                                                                      │
-  └──────────────────── Learn: what worked, what didn't ─────────────────┘
-```
+- Building a partner pipeline
+- Negotiating terms
+- Alliance governance design
+- Corporate venture capital decisions
 
 ---
 
-## Step 1 — Research (find the right partners)
+## PART 1: ALLIANCE FRAMEWORKS
 
-### Partner criteria (use `templates/partner-scorecard.md`)
-- **Complementary, not competitive** — they serve the same audience with a different product
-- **Aligned incentives** — their success depends on your success (and vice versa)
-- **Cultural fit** — same values, same speed of execution
-- **Distribution leverage** — they give you access to an audience you can't reach alone
-- **Trust track record** — they have a history of honoring partnerships (Hormozi's trust framework)
+### 1. BCG Alliance Framework
 
-### Where to find partners
-- Your customer base (who else do your customers buy from?)
-- Industry events and conferences
-- Referrals from existing partners
-- Competitor's partners (they've already validated the model)
-- Your audience (who engages with your content but isn't a customer?)
+Types of Alliances:
+1. Supply Alliance: Shared supply chain, joint procurement
+2. Distribution Alliance: Access to each others channels
+3. Complementary Alliance: Products enhance each other
+4. Competitive Alliance: Competitors cooperate on non-core activities
 
-## Step 2 — Qualify (the partner scorecard)
+Governance Models:
+- Contractual (simplest): Written agreement, defined terms
+- Joint Venture (formal): New entity, shared ownership
+- Equity Partnership (deepest): Investment, shared upside
 
-Use `templates/partner-scorecard.md`. Score each criterion:
+Value Creation Mechanisms:
+- Shared resources (reduce cost)
+- Risk sharing (spread exposure)
+- Market access (new customers)
+- Learning (transfer knowledge)
+- Innovation (co-create)
 
-| # | Criterion | Evidence | Score (1-5) |
-|---|-----------|----------|-------------|
-| 1 | **Audience overlap** — Do they serve the same customer? | | |
-| 2 | **Product complement** — Do their products enhance yours? | | |
-| 3 | **Distribution reach** — How many potential customers can they access? | | |
-| 4 | **Trust track record** — Have they honored past partnerships? | | |
-| 5 | **Cultural alignment** — Same values, speed, work style? | | |
-| 6 | **Economic alignment** — Does their success depend on yours? | | |
-| 7 | **Capability match** — Can they actually deliver on their side? | | |
+BCG Decision Framework:
+1. Does it create more value together than apart?
+2. Is the value split fair?
+3. Is the governance structure aligned with value creation?
+4. Can both sides exit cleanly if needed?
 
-**Gate:** Score ≥ 28/40 → proceed to approach. Below 28 → nurture or pass.
+### 2. McKinsey Partnership Models
 
-## Step 3 — Approach (the first touch)
+70% of strategic alliances fail. Why?
+- Misaligned incentives
+- Poor governance
+- Cultural clash
+- Lack of trust
+- No clear success metrics
 
-### Warm intro (highest conversion)
-Find a mutual connection. Ask for introduction. Draft the intro message for them.
+McKinsey 3 Partnership Types:
+1. Strategic Alliance: Cooperation without equity (most common, lowest risk)
+2. Joint Venture: Formal new entity (higher commitment, shared P&L)
+3. Equity Partnership: Investment (deepest alignment, highest risk)
 
-### Cold approach (personalized)
-Reference specific work they've done. Show how partnership creates mutual value.
-Never lead with "what's in it for me" — lead with "here's what's in it for you."
+McKinsey Partnership Assessment:
+- Strategic fit: Do strategies align?
+- Operational fit: Can we work together day-to-day?
+- Cultural fit: Do values and speed match?
+- Financial fit: Are the economics compelling?
 
-### The Hormozi approach: "There is no lack of capital, only a lack of good deals"
+### 3. HBR 4 Requirements for Successful Alliances
+
+1. Strategic Intent: Both sides must know WHY this alliance exists
+2. Cultural Fit: Values, speed, work style must be compatible
+3. Favorable Economics: Both sides must benefit (not just one)
+4. Organizational Fit: Structures must allow collaboration
+
+Key insight from HBR: "Alliances are marriages. They require trust,
+communication, and willingness to invest before you see returns."
+
+### 4. Drucker on Partnerships
+
+"Alliances require trust, not contracts."
+"The best partnerships are where both sides bring something the other cannot build."
+"Measure a partnership by what it produces, not by what it promises."
+
+---
+
+## PART 2: DEAL STRUCTURES
+
+### 5. Revenue Share
+When: Complementary products, shared customers
+Terms: % of revenue from referred customers (10-30% typical)
+Duration: Ongoing (as long as customer stays)
+Risk: Low (performance-based)
+Best for: Referral partnerships, affiliate relationships
+
+### 6. Equity Joint Venture
+When: Shared creation of new product/company
+Terms: Ownership split based on contribution
+Duration: Life of the entity
+Risk: Medium (locked in)
+Best for: Creating something new together
+
+### 7. Licensing
+When: Your IP, their distribution
+Terms: Fee per use + minimum guarantees
+Duration: Fixed term (1-5 years typical)
+Risk: Low-Medium
+Best for: IP-heavy businesses, white-label deals
+
+### 8. Fund Management (Hormozi Model)
+When: You have deal flow, they have capital
+Terms: GP/LP split, hurdle rate (6-8%), carried interest (20%)
+Duration: Fund life (5-7 years typical)
+Risk: Low personal capital, high reputation
+Best for: Investors with strong deal sourcing
+
+Hormozi Fund Math:
+- Put in 5% ($5M of $100M)
+- Raise 95% from LPs
+- Use leverage to buy $300M of businesses
+- 20% annual return for 6 years = $900M
+- Pay back debt ($300M)
+- Pay back LPs ($135M)
+- Split remaining ($465M) 50/50 = $232M to you
+- Your $5M = $232M = 46x return
+
+### 9. Advisory / Fractional
+When: You have expertise, they have need
+Terms: Monthly retainer + performance bonus
+Duration: 6-12 months typical
+Risk: Low
+Best for: Consulting, fractional CMO/CRO/CTO
+
+---
+
+## PART 3: THE PARTNER PIPELINE
+
+### 10. Partner Scorecard (BCG-inspired)
+
+| # | Criterion | Score (1-5) |
+|---|-----------|-------------|
+| 1 | Strategic fit (do strategies align?) | |
+| 2 | Operational fit (can we work together?) | |
+| 3 | Cultural fit (values, speed match?) | |
+| 4 | Financial fit (economics compelling?) | |
+| 5 | Distribution leverage (new customers?) | |
+| 6 | Trust track record (history of honoring?) | |
+| 7 | Capability match (can they deliver?) | |
+
+Total: ___/35
+Gate: >= 28 = approach. Below = nurture or pass.
+
+### 11. The Partner Loop
+
+Research > Qualify > Approach > Structure > Close > Operate > Measure > Skillify
+
+Research: Find complementary (not competitive) partners.
+Qualify: Score >= 28/40. BCG/HBR alignment check.
+Approach: Warm intro preferred. Value-first messaging.
+Structure: Match structure to situation (see Part 2).
+Close: Written agreement. Clear terms. Exit clauses.
+Operate: Communication cadence. Success metrics. Escalation path.
+Measure: Revenue attribution. Satisfaction surveys. Relationship health.
+Skillify: Document what worked. Build partner playbooks.
+
+---
+
+## PART 4: NEGOTIATION AND CLOSING
+
+### 12. Hormozi Approach to Deals
+
+"There is no lack of capital, only a lack of good deals."
 - Lead with the deal, not the ask
 - Show the math (quantified value)
 - Make it easy to say yes (low friction, clear next step)
+- Disney analogy: create content that builds brand, monetize through multiple layers
 
-## Step 4 — Structure (the deal)
+### 13. Voss Tactical Empathy for Partnerships
 
-### Partnership structures (from Hormozi's 4 Paths)
-
-| Structure | When to use | Key terms |
-|-----------|------------|-----------|
-| **Rev-share** | Complementary products, shared customers | % of revenue from referred customers |
-| **Equity JV** | Shared creation of new product/company | Ownership split based on contribution |
-| **Licensing** | Your IP, their distribution | Fee per use + minimum guarantees |
-| **Fund management** | You have deal flow, they have capital | GP/LP split, hurdle rate, carried interest |
-| **Advisory** | You have expertise, they have need | Monthly retainer + performance bonus |
-
-### Hormozi's fund management math (simplified)
-- You put in 5% of fund ($5M of $100M)
-- Raise 95% from LPs
-- Use leverage (debt) to buy $300M of businesses
-- 20% annual return for 6 years → $900M
-- Pay back debt ($200M + $100M interest)
-- Pay back LPs ($95M + $40M hurdle)
-- Split remaining ($465M) 50/50 → $232M to you
-- **Your $5M → $232M = 46x return**
-
-**Save Button:** Checkpoint before finalizing any deal structure.
-
-## Step 5 — Close and operate
-
-- Document terms clearly (who does what, when, how)
-- Set communication cadence (weekly syncs, monthly reviews)
-- Define success metrics (both sides)
-- Establish escalation path for conflicts
-
-## Step 6 — Measure and skillify
-
-| Metric | Target | How to measure |
-|--------|--------|---------------|
-| Partner pipeline | ≥ X qualified partners/month | Scorecard tracking |
-| Partnership revenue | $X/month from partner-sourced deals | CRM attribution |
-| Partner satisfaction | ≥ 4/5 on quarterly survey | Survey |
-| Deal cycle time | ≤ X days from first touch to close | Pipeline tracking |
+Mirror: Reflect their concerns to understand them better.
+Label: Name their fears. "It sounds like you are worried about..."
+Calibration: "How should we structure this so it works for both sides?"
+Black Swan: Discover hidden motivations that change the deal.
 
 ---
 
-## Anti-patterns (refuse)
+## ANTI-PATTERNS
 - Partnering with competitors (short-term gain, long-term poison)
-- Misaligned incentives (their success doesn't depend on yours)
+- Misaligned incentives (their success does not depend on yours)
 - No written agreement (handshake deals break under pressure)
-- Not checkpointing before high-stakes negotiations
 - Not measuring partner-sourced revenue
+- Not checkpointing before high-stakes negotiations
+- Ignoring cultural fit (McKinsey: #1 reason alliances fail)
 
-## Source channels
-- **AlexHormozi:** How Acquisition.com Makes Money, 4 Paths to Wealth, Perfect Business, Trust Framework
-- **GaryVee:** Biggest Business Opportunity Founders Ignore, Cost of Saying No
-- **SalesGravy:** Building Boldness in Sales, Coaching the Rep Not the Deal
+---
 
-## Templates
-- `templates/partner-scorecard.md` — qualification framework
-- `templates/deal-structures.md` — partnership structure templates
-- `templates/outreach-templates.md` — partner outreach sequences
-- `templates/partner-tracker.md` — pipeline and relationship tracking
+## SOURCE ATTRIBUTION
+BCG Alliance Framework, McKinsey Partnership Models,
+HBR 4 Requirements for Successful Alliances,
+The Effective Executive (Drucker 1967),
+Marketing Management (Kotler), Competitive Strategy (Porter 1980),
+How Acquisition.com Makes Money (Hormozi 2024),
+4 Paths to Wealth (Hormozi 2024), Trust Framework (Hormozi 2024)
+
+## TEMPLATES
+templates/partner-scorecard.md, templates/deal-structures.md,
+templates/partner-tracker.md

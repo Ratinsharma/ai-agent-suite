@@ -1,162 +1,252 @@
 ---
 name: growth-engine
 description: >-
-  Marketing agent for generating content strategies, growth loops, and campaign automation.
-  Load when building content calendars, social media strategies, growth hacking workflows, or
-  campaign automation systems.
+  Marketing agent built on Kotler, Drucker, Godin, Porter, Christensen, Sean Ellis,
+  Reforge, and growth hacking frameworks. Covers strategy, content, growth loops,
+  product-led growth, and campaign automation.
 ---
 
-# growth-engine — The Marketing Agent
+# growth-engine -- The Marketing Agent
 
-**Mandate:** Generate and execute content strategies, growth loops, and campaign automation across
-channels. Build from what works in YOUR market, not from theory.
+Mandate: Build and execute marketing strategy using the greatest frameworks in
+marketing history. From Kotler to Godin to modern growth hacking.
 
-Core reframe (from `create-ai-agent`): a skill file is an employee, a resolver table is your org
-chart, an eval is a performance review, and the memory is your company brain.
-
----
-
-## When to use this skill
-- Building a content strategy or content calendar
-- Designing growth loops (acquisition → activation → retention)
-- Creating social media content (LinkedIn, X, Instagram, YouTube)
-- Planning and executing campaigns
-- Analyzing campaign ROI and optimizing spend
-- Building a personal or company brand
-
-## The marketing loop (how growth compounds)
-
-```
-Strategy → Create → Distribute → Measure → Learn → Optimize → Repeat
-  ↑                                                              │
-  └──────────────────── Skillify what works ─────────────────────┘
-```
+## WHEN TO USE
+- Building marketing strategy (positioning, segmentation, targeting)
+- Creating content strategy (content pillars, editorial calendar)
+- Designing growth loops (acquisition, activation, retention, revenue, referral)
+- Running campaigns (launch, nurture, reactivation)
+- Measuring marketing effectiveness (AARRR, NPS, Kano)
+- Product-Led Growth (PLG) design
+- Competitive positioning (Porter 5 Forces, value chain)
 
 ---
 
-## Step 1 — Strategy (the foundation)
+## PART 1: MARKETING FOUNDATIONS
 
-Before creating anything, answer these:
+### 1. Kotler Marketing Management
 
-### Audience
-- **Who** is your ideal customer? (persona: title, industry, company size, pain points)
-- **Where** do they hang out? (LinkedIn? X? YouTube? Podcasts? Newsletters?)
-- **What** do they care about right now? (trending topics, urgent pains)
+The 5 Levels of Product:
+1. Core Benefit -- What is the buyer really buying? (solution to a problem)
+2. Basic Product -- The tangible product/service
+3. Expected Product -- What buyers expect (features, quality level)
+4. Augmented Product -- What exceeds expectations (warranty, service, support)
+5. Potential Product -- What the product could become (future innovations)
 
-### Positioning
-- **What** do you do? (one sentence)
-- **For whom?** (target audience)
-- **Why you?** (differentiation — what makes you #1 choice)
-- **Why now?** (urgency — what changed in 2026 that makes this matter)
+STP Process:
+S -- Segmentation: Divide market into distinct groups (demographic, behavioral, psychographic, geographic)
+T -- Targeting: Evaluate segments (size, growth, accessibility, fit). Select target(s).
+P -- Positioning: Create a clear, distinctive, desirable position in customer minds.
 
-### Channels (pick 2-3 max, don't spread thin)
-| Channel | Best for | Frequency | Content type |
-|---------|----------|-----------|--------------|
-| LinkedIn | B2B, thought leadership | 3-5x/week | Text + carousels |
-| X/Twitter | Tech, AI, startup community | Daily | Short takes, threads |
-| YouTube | Deep dives, tutorials | 1-2x/week | Long-form video |
-| Newsletter | Nurture, owned audience | 1x/week | Long-form text |
-| Podcast | Interviews, authority | 1-2x/month | Audio/video |
+The 4Ps:
+Product: What you sell (features, quality, design, branding)
+Price: What you charge (premium, competitive, penetration, skimming)
+Place: Where you sell (channels, distribution, online, retail)
+Promotion: How you communicate (advertising, PR, content, sales)
 
-**Gate:** Strategy documented → proceed to creation.
+The 7Ps (extended):
++ People: Who delivers the service (training, culture, interaction)
++ Process: How the service is delivered (workflow, efficiency)
++ Physical Evidence: Tangible cues (office, website, packaging)
 
-## Step 2 — Content creation (the machine)
+The 4Cs (customer perspective):
+Customer solution (not product), Cost to customer (not price),
+Convenience (not place), Communication (not promotion)
 
-### Content pillars (3-5 topics you own)
-Pick 3-5 topics where you have genuine expertise and the audience cares:
-1. [TOPIC_1] — your #1 authority area
-2. [TOPIC_2] — related, complementary
-3. [TOPIC_3] — broader industry trend
-4. [TOPIC_4] — personal story / behind-the-scenes
-5. [TOPIC_5] — contrarian take / hot opinion
+### 2. Drucker Marketing Principles
 
-### Content formats by platform
+"The purpose of business is to create a customer."
+"Marketing is too important to leave to the marketing department."
+"There is only one valid definition of business purpose: to create a customer."
+"The aim of marketing is to know and understand the customer so well the product
+or service fits him and sells itself."
 
-**LinkedIn:**
-- Text posts (300-800 words, hook in first line)
-- Carousels (5-10 slides, value-packed)
-- Polls (engagement boost)
-- Articles (long-form, thought leadership)
+Key principles:
+- Marketing is not a department, it is the entire business
+- Innovation and marketing are the only two results-producing functions
+- Do first things first (effectiveness over efficiency)
+- Build on strengths, not fix weaknesses
 
-**X/Twitter:**
-- Threads (5-10 tweets, deep dive)
-- Hot takes (1 tweet, strong opinion)
-- Quote tweets (add your spin to trending topics)
-- Visual content (screenshots, charts, memes)
+### 3. Porter Competitive Strategy
 
-**YouTube:**
-- Tutorials (how-to, step-by-step)
-- Reviews (tools, frameworks, approaches)
-- Commentary (industry news, paper analysis)
-- Case studies (before/after, real results)
+5 Forces (Industry Analysis):
+1. Threat of New Entrants (barriers to entry)
+2. Bargaining Power of Suppliers
+3. Bargaining Power of Buyers
+4. Threat of Substitutes
+5. Competitive Rivalry (existing competitors)
 
-### Content creation rules
-- **Lead with value, not promotion** (80/20 rule: 80% value, 20% promotional)
-- **Be specific** (not "AI is changing everything" but "AI cut our outreach time from 3 hours to 20 minutes")
-- **Use data** (back claims with numbers, benchmarks, case studies)
-- **Be polarizing** (strong opinions create engagement; bland = invisible)
-- **Repurpose** (one long-form piece → 5-10 short-form pieces across channels)
+3 Generic Strategies:
+- Cost Leadership: Be the cheapest (Walmart, Ryanair)
+- Differentiation: Be unique (Apple, Tesla)
+- Focus: Serve a niche (Ferrari, Rolls Royce)
 
-**Gate:** Content created → proceed to distribution.
-
-## Step 3 — Distribution (the amplifier)
-
-### Organic distribution
-- Post on primary channel first
-- Cross-post to secondary channels (adapt format, don't copy-paste)
-- Engage with comments (first 60 minutes are critical)
-- Share in relevant communities (Slack groups, Discord, Reddit)
-
-### Paid distribution (only after organic proves demand)
-- Boost top-performing organic content (don't create ads from scratch)
-- Target: lookalike audiences of your best customers
-- Budget: start at $10-20/day, scale what works, kill what doesn't
-- **Gate:** Organic engagement ≥ baseline → test paid. Paid ROI ≥ 3x → scale.
-
-## Step 4 — Measure (the scoreboard)
-
-| Metric | Target | How to measure |
-|--------|--------|---------------|
-| Reach | ↑ 20% month-over-month | Platform analytics |
-| Engagement rate | ≥ 3% (LinkedIn), ≥ 1% (X) | Likes + comments + shares / impressions |
-| Leads generated | ≥ X/month | CRM / landing page signups |
-| Pipeline influenced | $X/month | Deals where content was first touch |
-| Cost per lead (paid) | ≤ $Y | Ad spend / leads |
-| Content output | ≥ Z pieces/month | Content calendar tracking |
-
-**Gate:** Metrics tracked weekly → proceed to optimization.
-
-## Step 5 — Optimize and skillify
-
-### Weekly review
-- What content performed best? Why?
-- What flopped? Why?
-- What should we do more of? Less of?
-- Any new patterns to test?
-
-### Monthly skillify
-- If a content type consistently outperforms → create a skill file for it
-- If a distribution channel consistently delivers → double down
-- If a topic consistently engages → make it a pillar
+Value Chain:
+Primary: Inbound Logistics > Operations > Outbound Logistics > Marketing/Sales > Service
+Support: Firm Infrastructure, HR Management, Technology Development, Procurement
 
 ---
 
-## Anti-patterns (refuse)
-- Spreading across 5+ channels (pick 2-3, do them well)
-- Creating content without a strategy (random acts of marketing)
-- Not measuring (vanity metrics ≠ business outcomes)
-- Copying competitors (your differentiation is your edge)
-- Not repurposing (one piece should feed 5-10 outputs)
-- Chasing trends without substance (hot take needs backing)
+## PART 2: GROWTH FRAMEWORKS
 
-## Source channels
-- **GaryVee:** Social media strategy 2026, content in AI age, $800B opportunity, stop wasting on ads
-- **AlexHormozi:** Content in AI age, perfect business framework, AI in business 2026
-- **PatrickDang:** AI as content team, personal brand building, one-person business
+### 4. Sean Ellis Product-Market Fit
 
-## Templates
-- `templates/content-calendar.md` — weekly/monthly content planning
-- `templates/content-pillars.md` — topic authority mapping
-- `templates/growth-loop-designer.md` — acquisition → activation → retention loops
-- `templates/campaign-tracker.md` — campaign ROI tracking
-- `templates/repurpose-engine.md` — one piece → many outputs
+The Question: "How would you feel if you could no longer use this product?"
+- Very disappointed: 40%+ = You have PMF
+- Somewhat disappointed: 30%+
+- Not disappointed: <30% = No PMF yet
+
+Action: If PMF confirmed, double down on growth. If not, iterate product first.
+
+### 5. AARRR Pirate Metrics (Dave McClure)
+
+A -- Acquisition: How do users find you? (SEO, ads, referrals, content)
+A -- Activation: Do users have a great first experience? (onboarding, aha moment)
+R -- Retention: Do users come back? (daily/weekly/monthly active, engagement)
+R -- Revenue: Do users pay? (conversion, ARPU, LTV)
+R -- Referral: Do users tell others? (viral coefficient, NPS)
+
+Focus: Fix the leaky bucket first. Retention before Acquisition.
+
+### 6. Reforge Growth Loops
+
+A growth loop is a self-reinforcing cycle:
+Input > Action > Output > Feed back as Input
+
+Types:
+- Acquisition Loop: User invites friend > Friend joins > Friend invites more
+- Engagement Loop: User creates content > Content drives traffic > Traffic creates users
+- Monetization Loop: User pays > Revenue funds growth > Growth brings more users
+
+Key insight: Loops beat funnels. Funnels are one-way. Loops compound.
+
+### 7. Seth Godin Frameworks
+
+Permission Marketing (1999):
+- Earn attention, do not buy it
+- Anticipated, personal, relevant messages
+- Build a database of interested prospects
+- Over time, build trust and preference
+
+Purple Cow (2003):
+- Be remarkable or be invisible
+- If everyone likes it, no one loves it
+- The opposite of remarkable is "very good" (not bad)
+- Remarkable products market themselves
+
+Tribes (2008):
+- A tribe is a group connected to one another, connected to a leader, connected to an idea
+- The internet enables tribes to form around anything
+- Lead a tribe or join one. There is no in-between.
+
+### 8. Jobs-to-Be-Done (Clayton Christensen)
+
+Core principle: Customers do not buy products. They hire them to do a job.
+
+Framework:
+1. What job is the customer trying to get done?
+2. What are the functional, emotional, and social dimensions?
+3. What are the current solutions and their shortcomings?
+4. What would the ideal solution look like?
+
+Key insight: Competitors are not other products in your category.
+Competitors are whatever the customer is currently using to get the job done.
+
+### 9. Kano Model
+
+5 Categories of Customer Satisfaction:
+1. Must-Be (Basic): Expected. Absence causes dissatisfaction. Presence does not excite.
+2. One-Dimensional (Performance): More is better. Linear relationship.
+3. Attractive (Delighters): Unexpected. Absence does not disappoint. Presence delights.
+4. Indifferent: Does not affect satisfaction either way.
+5. Reverse: Some customers want it, others do not.
+
+Application: Map features to categories. Ensure Must-Be, optimize One-Dimension,
+add Attractive. Avoid Indifferent and Reverse.
+
+### 10. Net Promoter Score (Fred Reichheld, 2003)
+
+Question: "How likely are you to recommend us to a friend?" (0-10)
+- Promoters (9-10): Loyal enthusiasts
+- Passives (7-8): Satisfied but vulnerable
+- Detractors (0-6): Unhappy, potential damage
+
+NPS = % Promoters - % Detractors
+- Above 0: Good
+- Above 30: Great
+- Above 70: World-class
+
+---
+
+## PART 3: CONTENT STRATEGY
+
+### 11. Content Pillars
+
+Define 3-5 core topics that align:
+1. Your expertise
+2. Your audience needs
+3. Your business goals
+
+For each pillar, create:
+- 1 long-form piece (blog, video, podcast)
+- 5 short-form pieces (social posts, threads, clips)
+- 1 interactive piece (quiz, calculator, template)
+
+### 12. Ryan Deiss RPM Method
+
+R -- Results: What does the audience want? (outcome, not feature)
+P -- Person: Who exactly is the target? (specific, not broad)
+M -- Message: What is the hook? (attention-grabbing headline)
+
+Application: Every piece of content must answer all 3 before publishing.
+
+### 13. Content Distribution Matrix
+
+| Channel | Format | Frequency | Goal |
+|---------|--------|-----------|------|
+| Blog | Long-form | Weekly | SEO, authority |
+| LinkedIn | Professional | Daily | B2B leads |
+| Twitter/X | Short-form | Daily | Community, thought leadership |
+| YouTube | Video | Weekly | Education, trust |
+| Podcast | Audio | Bi-weekly | Depth, relationship |
+| Email | Newsletter | Weekly | Nurture, retention |
+
+---
+
+## PART 4: THE GROWTH LOOP
+
+Strategy > Create > Distribute > Measure > Optimize > Skillify
+
+Step 1 -- Strategy: STP (Segment, Target, Position). Define ICP.
+Step 2 -- Create: Content pillars. RPM method. Quality over quantity.
+Step 3 -- Distribute: Multi-channel. Permission-first. Community-driven.
+Step 4 -- Measure: AARRR metrics. NPS. Kano. Growth loops.
+Step 5 -- Optimize: A/B test everything. Kill what does not work.
+Step 6 -- Skillify: Document what worked. Build playbooks.
+
+---
+
+## ANTI-PATTERNS
+- Marketing as a department (Drucker: it is the entire business)
+- Buying attention instead of earning it (Godin: Permission Marketing)
+- Funnels without loops (loops compound, funnels leak)
+- Not measuring retention before acquisition
+- Feature-focused instead of job-focused (Christensen)
+- Not checkpointing before campaign launches
+
+---
+
+## SOURCE ATTRIBUTION
+Marketing Management (Kotler 1967), Marketing 4.0 (Kotler 2017),
+Marketing 5.0 (Kotler 2021), The Effective Executive (Drucker 1967),
+Competitive Strategy (Porter 1980), Purple Cow (Godin 2003),
+Permission Marketing (Godin 1999), Tribes (Godin 2008),
+Crossing the Chasm (Moore 1991), Innovators Dilemma (Christensen 1997),
+The Lean Startup (Ries 2011), Hacking Growth (Ellis 2017),
+Product-Led Growth (Warden 2019), Reforge frameworks (2020s),
+Never Split the Difference (Voss 2016), Straight Line System (Belfort),
+Hormozi frameworks (2020s)
+
+## TEMPLATES
+templates/content-calendar.md, templates/growth-loop-designer.md,
+templates/campaign-tracker.md, templates/repurpose-engine.md

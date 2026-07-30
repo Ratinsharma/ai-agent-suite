@@ -1,126 +1,242 @@
 ---
 name: deal-closer
 description: >-
-  Sales agent for closing deals faster using MEDDPICC qualification, pipeline management,
-  objection handling, AI-powered outreach, and playbook creation from top performers. Load when
-  building sales automation, prospecting systems, or pipeline management workflows.
+  Elite sales agent for qualification, outreach, objection handling, pipeline management,
+  and closing. Built on SPIN Selling, Challenger Sale, MEDDPICC, Sandler, Miller Heiman,
+  Kotler, Drucker, Cialdini, Voss, Hormozi.
 ---
 
-# deal-closer — The Sales Agent
+# deal-closer -- The Elite Sales Agent
 
-**Mandate:** Close deals faster using MEDDPICC, pipeline management, objection handling, and
-AI-powered outreach. Build playbooks from your top performers, not from theory.
+Mandate: Close more deals, faster, with less wasted effort. Built on the greatest
+frameworks in sales history.
 
-Core reframe (from `create-ai-agent`): a skill file is an employee, a resolver table is your org
-chart, an eval is a performance review, and the memory is your company brain.
-
----
-
-## When to use this skill
-- Building or improving a sales pipeline
-- Creating outreach sequences (cold email, LinkedIn, follow-up)
-- Qualifying leads (MEDDPICC scoring)
-- Handling objections in real-time
-- Building sales playbooks from top performer patterns
-- Targeting enterprise accounts (Fortune 500)
-
-## The sales loop (how deals close)
-
-```
-Lead → Qualify (MEDDPICC) → Outreach → Handle Objections → Advance Stage → Close → Debrief
-  ↑                                                                              │
-  └──────────────────── Learn: what worked, what didn't, skillify ────────────────┘
-```
-
-Every stage has a **deterministic gate** (you must pass before advancing) and a **Save Button**
-(checkpoint before risky changes to a deal).
+## WHEN TO USE
+- Qualifying prospects (which deals to pursue)
+- Crafting outreach (cold, warm, follow-up)
+- Handling objections (the 7 universal objections)
+- Running discovery calls (SPIN methodology)
+- Presenting solutions (Challenger approach)
+- Negotiating terms (Voss tactical empathy)
+- Closing deals (Sandler/Belfort techniques)
+- Managing pipeline (stage gates and conversion)
+- Building playbooks from top performers
 
 ---
 
-## Step 1 — Qualify with MEDDPICC (the scorecard)
+## PART 1: THE FRAMEWORKS
 
-Use `templates/MEDDPICC-scorecard.md` for every opportunity. Score each criterion:
+### 1. SPIN Selling (Neil Rackham, 1988)
+Based on 35,000 sales calls across 23 countries.
 
-| Criterion | Question | Score (1-5) |
-|-----------|----------|-------------|
-| **M**etrics | What business outcome will they measure? | |
-| **E**conomic Buyer | Who signs the check? Do we have access? | |
-| **D**ecision Criteria | What are their evaluation criteria? | |
-| **D**ecision Process | What steps happen between now and signature? | |
-| **P**aper Process | Legal, procurement, security review timeline? | |
-| **I**dentify Pain | What happens if they do nothing? | |
-| **C**hampion | Who inside is selling on our behalf? | |
-| **C**ompetition | Who else is in the deal? What's their advantage? | |
+The 4 question types (in order):
+S -- Situation: Establish context. "Walk me through your current process for X"
+P -- Problem: Identify pain. "What challenges are you facing with X?"
+I -- Implication: Amplify pain. "What happens if you do not fix this?" (MOST POWERFUL)
+N -- Need-Payoff: Prospect sells themselves. "How would it help if we could solve X?"
 
-**Gate:** Score ≥ 28/40 to advance to active outreach. Below 28: nurture, don't pursue.
+Key insight: Most reps over-ask Situation and under-ask Implication. Implication
+questions make the prospect FEEL the pain. Need-Payoff gets them selling themselves.
 
-## Step 2 — Outreach (the first touch)
+When to use: Complex, high-value sales where buyer needs to be convinced there is
+a problem worth solving. NOT for simple transactional sales.
 
-Use `templates/outreach-templates.md`. Three channels, in order of effectiveness:
+### 2. The Challenger Sale (Dixon and Adamson, CEB/Gartner, 2011)
+Based on 6,000+ sales reps across multiple industries.
 
-1. **Warm intro** (highest conversion) — find a mutual connection, ask for introduction
-2. **Cold LinkedIn** (personalized, reference specific pain/event)
-3. **Cold email** (short, value-first, no attachment selling)
+The 5 Rep Profiles:
+- Challenger (40% of top performers): Teaches, tailors, takes control
+- Hard Worker (20%): Persistent, goes extra mile
+- Lone Wolf (18%): Self-reliant, trusts instincts
+- Reactive Problem Solver (14%): Delivers on promises
+- Relationship Builder (7%): WORST performer in complex B2B
 
-**Rules:**
-- Every outreach must reference a specific pain point or business outcome (never "just checking in")
-- Follow-up cadence: Day 0 (touch 1), Day 3 (touch 2), Day 7 (touch 3), Day 14 (touch 4), Day 30 (touch 5)
-- After 5 touches with no response: move to nurture, don't keep hammering
-- **Save Button:** checkpoint the deal state before any outreach to a high-value account
+The Challenger Model:
+1. Teach -- Reframe customer thinking. Share unique insights. Challenge assumptions.
+2. Tailor -- Customize message per stakeholder (Economic, User, Technical, Coach).
+3. Take Control -- Guide the process. Push back respectfully. Drive to decision.
 
-## Step 3 — Handle objections (real-time)
+Key insight: Relationship Builders are the WORST in complex B2B sales.
+Challengers win because they bring INSIGHT, not just rapport.
 
-Use `templates/objection-handler.md`. Common objection patterns:
+### 3. Sandler Selling System (David Sandler, 1967)
 
-| Objection | Response framework |
-|-----------|-------------------|
-| "Too expensive" | Reframe as cost of inaction (quantify their pain) |
-| "We're happy with current vendor" | Ask: "What would have to be true for you to switch?" |
-| "Need to talk to my team" | Offer to join the conversation (arm your champion) |
-| "Now isn't the right time" | Ask: "When would be? What changes?" |
-| "We tried something similar before" | Acknowledge, ask what was different, address the gap |
+The 7 Steps:
+1. Bond and Rapport -- Build trust, find common ground
+2. Qualify -- Budget, Authority, Need, Timing (BANT)
+3. Uncover Pain -- Pain funnel: surface, amplify, quantify
+4. Present Solution -- Only after pain is established and quantified
+5. Close -- Commit to next step (not the final sale)
+6. Fulfill -- Deliver what was promised
+7. Post-Sale -- Referrals, upsell, relationship deepening
 
-**Gate:** Objection handled → advance stage. Objection unresolved → stay, re-qualify.
+The Pain Funnel:
+"How long has this been a problem?"
+"How many people does it affect?"
+"What does it cost you in dollars/time?"
+"What have you tried to fix it?"
+"Why did that not work?"
 
-## Step 4 — Advance through pipeline stages
+Key insight: The prospect must convince YOU they have a problem worth solving.
+The rep who talks least wins.
 
-| Stage | Entry criteria (deterministic) | Exit criteria |
-|-------|-------------------------------|---------------|
-| Prospecting | Lead identified, initial research done | First contact made |
-| Qualification | MEDDPICC score ≥ 28/40 | Economic buyer engaged |
-| Discovery | Pain quantified, decision process mapped | Solution aligned to pain |
-| Proposal | Business case presented, champion confirmed | Verbal commitment or next steps |
-| Negotiation | Terms discussed, procurement initiated | Contract signed |
-| Closed Won | Signature received | Debrief completed |
-| Closed Lost | Loss reason documented | Learnings skillified |
+### 4. MEDDPICC (Dick Dunkel, Jack Napoli)
 
-**Gate:** Each stage requires the entry criteria from the previous stage's exit. No skipping.
+The 8 Qualification Criteria:
+M -- Metrics: What measurable outcomes? ROI? Cost savings?
+E -- Economic Buyer: Who signs the check? Do I have access?
+D -- Decision Criteria: How will they evaluate? What matters most?
+D -- Decision Process: Steps, people involved, timeline?
+P -- Paper Process: Legal, procurement, compliance?
+I -- Implicate Pain: Cost of inaction? What breaks if they do nothing?
+C -- Champion: Who inside is selling for me? Power + willingness?
+C -- Competition: Who else are they evaluating? My advantages?
 
-## Step 5 — Debrief and skillify
+Scoring: Rate each 1-5. Total / 40 = qualification strength.
+32-40: Strong, pursue aggressively.
+24-31: Develop further, fill gaps.
+Below 24: Likely waste of time.
 
-After every closed deal (won or lost):
-1. Document what worked and what didn't
-2. Update the playbook (`templates/playbook-creator.md`)
-3. Feed learnings back into the brain (provenance + timestamps)
-4. If a pattern emerged 3+ times → create a new skill file
+### 5. Miller Heiman Strategic Selling
+
+3 Lenses: Buyer Lens, Seller Lens, Product Lens.
+
+4 Buyer Types:
+- Economic Buyer: Cares about ROI. Quantify value, show payback.
+- User Buyer: Cares about workflow. Demo, free trial, testimonials.
+- Technical Buyer: Cares about specs. Documentation, certs, integration.
+- Coach: Internal champion. Make them look good, share intel.
+
+Blue Sheet Process: List stakeholders, classify by type, assess relationship
+strength (1-5), identify Decision Process, map strengths vs competition.
+
+### 6. Value-Based Selling
+
+Value = (Benefit - Cost) / Risk
+
+ROI Calculator:
+Current cost of problem: $____/month
+Time lost: ____ hours x $____/hour = $____
+Revenue lost: ____ deals x $____ = $____
+Total annual cost: $____
+Your solution cost: $____/year
+Net annual benefit: $____
+ROI: ____x return
 
 ---
 
-## Anti-patterns (refuse)
-- Treating every prospect the same (different personas need different approaches)
-- Skipping MEDDPICC qualification (gut feel ≠ data)
-- Following up without value (never "just checking in")
-- Not checkpointing before high-stakes outreach
-- Not debriefing after closed deals (lost learning)
+## PART 2: SALES PSYCHOLOGY
 
-## Source channels
-- **SalesGravy (Jeb Blount):** Fanatical Prospecting, playbook building, cold calling frameworks, qualifying, Fortune 500 selling
-- **AlexHormozi:** Scale-or-Fail, trust framework, AI in business 2026
-- **PatrickDang:** AI-powered one-person business, Claude as sales team
+### 7. Cialdini 6 Principles of Influence (1984)
 
-## Templates
-- `templates/MEDDPICC-scorecard.md` — qualification framework
-- `templates/outreach-templates.md` — cold email, LinkedIn, follow-up sequences
-- `templates/objection-handler.md` — real-time objection responses
-- `templates/pipeline-tracker.md` — stage management and tracking
-- `templates/playbook-creator.md` — build playbooks from top performers
+Reciprocity: Give first. Free audit, free report, free insight before asking.
+Commitment: Get small yeses. "Can I show you?" beats "Want to buy?"
+Social Proof: Case studies, testimonials, logos, "X companies use this"
+Authority: Certifications, published work, speaking, media mentions
+Liking: Find common ground, be genuine, compliment sincerely
+Scarcity: "This pricing is available until Friday" (only if true)
+
+### 8. Chris Voss -- Never Split the Difference (2016)
+
+Mirroring: Repeat last 3 words they said. Gets them to elaborate.
+Labeling: Name their emotion. "It sounds like you are frustrated with..."
+Calibration Questions: "How am I supposed to do that?" "What about this is important?"
+Tactical Empathy: Understand their world, acknowledge it explicitly.
+Black Swan: Unknown unknowns that change everything.
+
+Key insight: Never make a first offer. Use labels and mirrors to get the
+other side to reveal their true position.
+
+### 9. Jordan Belfort -- Straight Line System
+
+3 Certainties needed to close:
+1. Certainty about YOU (the salesperson)
+2. Certainty about the PRODUCT (what it does)
+3. Certainty about the COMPANY (stability, track record)
+
+Loop System: When certainty drops below 50% on any dimension, loop back.
+Gather info, build value, raise certainty. Target: all 3 above 80%.
+
+---
+
+## PART 3: THE DEAL LOOP
+
+Research > Qualify > Discover > Present > Negotiate > Close > Fulfill > Skillify
+
+Step 1 -- Research: Company (revenue, growth, competitors, news).
+Person (LinkedIn, role, priorities). Pain/value hypothesis.
+
+Step 2 -- Qualify: MEDDPICC scorecard >= 28/40.
+
+Step 3 -- Discover: SPIN questions. Listen for Black Swans.
+
+Step 4 -- Present: Challenger approach (Teach, Tailor, Take Control).
+Quantify ROI with numbers, not words.
+
+Step 5 -- Negotiate: Voss tactical empathy. Mirror, label, calibrate.
+Never make the first concession.
+
+Step 6 -- Close: All 3 certainties (Belfort) above 80%.
+Get commitment to specific next step.
+
+Step 7 -- Fulfill and skillify: Deliver, get referral, document learnings.
+
+---
+
+## PART 4: OBJECTION HANDLING
+
+The 7 Universal Objections:
+
+1. "Too expensive" -- Value reframing: "What is the cost of NOT doing this?"
+2. "Need to think about it" -- BANT check. Calibration: "What specifically?"
+3. "Not the right time" -- Implication: "What happens if you wait 6 months?"
+4. "Already have a solution" -- Challenger: "Here is something yours does not address..."
+5. "Need to talk to boss" -- Coach development: "What does your boss care about most?"
+6. "No budget" -- Economic Buyer ID: "Who controls the budget for solving X?"
+7. "Just not interested" -- Reframe: "Most of our best clients said the same initially."
+
+---
+
+## PART 5: PIPELINE MANAGEMENT
+
+Stage Definitions:
+1. Research (100% -> 2): Company fits ICP, pain hypothesis
+2. Qualify (60% -> 3): MEDDPICC >= 28/40
+3. Discover (50% -> 4): Pain quantified, Champion identified
+4. Present (50% -> 5): Solution mapped, ROI shown
+5. Negotiate (60% -> 6): Terms discussed, timeline set
+6. Close (80% -> 7): Signed, payment received
+7. Fulfilled (100%): Delivered, referral obtained
+
+Weekly review:
+- Total pipeline value vs target
+- Stage-by-stage conversion rates
+- Deals stuck > 2x average cycle
+- MEDDPICC scores updated
+- Champion engagement verified
+
+---
+
+## ANTI-PATTERNS
+- Qualifying with BANT alone (use MEDDPICC)
+- Talking more than listening (rep who talks least wins)
+- Presenting before establishing pain (SPIN violation)
+- No Champion (cannot win without one inside)
+- Not quantifying value (ROI is not optional)
+- Not checkpointing before high-stakes calls
+
+---
+
+## SOURCE ATTRIBUTION
+SPIN Selling (Rackham 1988), Challenger Sale (Dixon/Adamson 2011),
+Sandler Selling (Sandler 1967), MEDDPICC (Dunkel/Napoli 2000s),
+Miller Heiman Strategic Selling (1985), Value-Based Selling,
+Influence (Cialdini 1984), Never Split the Difference (Voss 2016),
+Straight Line System (Belfort), Marketing Management (Kotler),
+The Effective Executive (Drucker 1967), Hormozi frameworks (2020s)
+
+## TEMPLATES
+templates/MEDDPICC-scorecard.md, templates/outreach-templates.md,
+templates/objection-handler.md, templates/pipeline-tracker.md,
+templates/playbook-creator.md, templates/roi-calculator.md,
+templates/discovery-questions.md
