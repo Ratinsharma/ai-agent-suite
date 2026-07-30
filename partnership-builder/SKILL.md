@@ -1,25 +1,33 @@
 ---
 name: partnership-builder
 description: >-
-  Business development agent built on BCG, McKinsey, HBR alliance frameworks,
-  Drucker partnership principles, Hormozi deal structures, and corporate venture
-  capital models. Covers partner identification, qualification, approach,
-  structuring, and relationship management.
+  Business development agent with ALL major partnership and alliance frameworks.
+  Covers: BCG Alliance, McKinsey, HBR 4 Requirements, Drucker, Hormozi, Alliance
+  Management, Network Effects, Two-Sided Markets, Co-opetition, Channel Programs,
+  Platform Business Models, and more.
 ---
 
-# partnership-builder -- The Biz Dev Agent
+# partnership-builder -- The Complete Biz Dev Agent
 
-Mandate: Identify, approach, and structure partnerships using frameworks from
-BCG, McKinsey, HBR, Drucker, and Hormozi.
+Mandate: Identify, approach, and structure partnerships using every major framework
+in business development history.
 
-## WHEN TO USE
-- Identifying potential partners (complementary, not competitive)
-- Structuring deals (rev-share, equity, JV, fund management)
-- Expanding into new markets or segments
-- Building a partner pipeline
-- Negotiating terms
-- Alliance governance design
-- Corporate venture capital decisions
+---
+
+## SITUATION SELECTOR -- Which Framework to Use
+
+| Situation | Framework | Why |
+|-----------|-----------|-----|
+| New strategic alliance | BCG Alliance + HBR 4 Requirements | Structure + governance |
+| JV or equity partnership | McKinsey + Alliance Management | Formal structure, shared risk |
+| Channel/partner program | Channel Partner Framework | Scale through partners |
+| Platform/marketplace | Platform Business Models + Network Effects | Two-sided markets |
+| Co-opetition | Brandenburger/Nalebuff | Compete AND cooperate |
+| Referral partnership | Hormozi + Revenue Share | Simple, performance-based |
+| Corporate venture capital | CVC Framework | Invest in innovation |
+| Franchise model | Franchise Framework | Scale through licensing |
+| White-label/reseller | Licensing Framework | IP licensing |
+| Ecosystem design | Ecosystem Strategy | Build partner ecosystems |
 
 ---
 
@@ -78,10 +86,28 @@ McKinsey Partnership Assessment:
 3. Favorable Economics: Both sides must benefit (not just one)
 4. Organizational Fit: Structures must allow collaboration
 
-Key insight from HBR: "Alliances are marriages. They require trust,
-communication, and willingness to invest before you see returns."
+Key insight: "Alliances are marriages. They require trust, communication,
+and willingness to invest before you see returns."
 
-### 4. Drucker on Partnerships
+### 4. Alliance Management (Dyer, Kale, Singh)
+
+Alliance Lifecycle:
+1. Partner Selection: Due diligence, fit assessment
+2. Alliance Design: Structure, governance, incentives
+3. Alliance Launch: Kick-off, relationship building
+4. Alliance Management: Communication, measurement, adaptation
+5. Alliance Evolution: Expansion, restructuring, or termination
+
+Alliance Manager Role:
+- Dedicated person/team for alliance management
+- Bridge between organizations
+- Monitor performance, resolve conflicts
+- Identify new opportunities
+
+Key insight: "Alliances fail not at the start, but in the management.
+Dedicated alliance management is the difference between success and failure."
+
+### 5. Drucker on Partnerships
 
 "Alliances require trust, not contracts."
 "The best partnerships are where both sides bring something the other cannot build."
@@ -91,33 +117,28 @@ communication, and willingness to invest before you see returns."
 
 ## PART 2: DEAL STRUCTURES
 
-### 5. Revenue Share
+### 6. Revenue Share
 When: Complementary products, shared customers
 Terms: % of revenue from referred customers (10-30% typical)
 Duration: Ongoing (as long as customer stays)
 Risk: Low (performance-based)
-Best for: Referral partnerships, affiliate relationships
 
-### 6. Equity Joint Venture
+### 7. Equity Joint Venture
 When: Shared creation of new product/company
 Terms: Ownership split based on contribution
 Duration: Life of the entity
 Risk: Medium (locked in)
-Best for: Creating something new together
 
-### 7. Licensing
+### 8. Licensing
 When: Your IP, their distribution
 Terms: Fee per use + minimum guarantees
 Duration: Fixed term (1-5 years typical)
 Risk: Low-Medium
-Best for: IP-heavy businesses, white-label deals
 
-### 8. Fund Management (Hormozi Model)
+### 9. Fund Management (Hormozi Model)
 When: You have deal flow, they have capital
 Terms: GP/LP split, hurdle rate (6-8%), carried interest (20%)
 Duration: Fund life (5-7 years typical)
-Risk: Low personal capital, high reputation
-Best for: Investors with strong deal sourcing
 
 Hormozi Fund Math:
 - Put in 5% ($5M of $100M)
@@ -129,33 +150,104 @@ Hormozi Fund Math:
 - Split remaining ($465M) 50/50 = $232M to you
 - Your $5M = $232M = 46x return
 
-### 9. Advisory / Fractional
+### 10. Advisory / Fractional
 When: You have expertise, they have need
 Terms: Monthly retainer + performance bonus
 Duration: 6-12 months typical
 Risk: Low
-Best for: Consulting, fractional CMO/CRO/CTO
+
+### 11. Franchise Model
+When: Proven business model, want to scale fast
+Terms: Franchise fee + ongoing royalties (5-15%)
+Duration: 5-20 year terms
+Risk: Low (franchisee bears operational risk)
+
+### 12. White-Label / Reseller
+When: Your product, their brand
+Terms: Discount pricing (30-50% off retail), minimum purchase
+Duration: 1-3 year typical
+Risk: Low-Medium
 
 ---
 
-## PART 3: THE PARTNER PIPELINE
+## PART 3: NETWORK EFFECTS AND PLATFORMS
 
-### 10. Partner Scorecard (BCG-inspired)
+### 13. Network Effects (Parker, Van Alstyne, Choudary)
 
-| # | Criterion | Score (1-5) |
-|---|-----------|-------------|
-| 1 | Strategic fit (do strategies align?) | |
-| 2 | Operational fit (can we work together?) | |
-| 3 | Cultural fit (values, speed match?) | |
-| 4 | Financial fit (economics compelling?) | |
-| 5 | Distribution leverage (new customers?) | |
-| 6 | Trust track record (history of honoring?) | |
-| 7 | Capability match (can they deliver?) | |
+Types:
+- Direct: More users = more value for all (Facebook, WhatsApp)
+- Indirect: More users on one side = more value for other (Uber, Airbnb)
+- Data: More usage = better data = better product (Google, Spotify)
+- Performance: More users = better performance (CDN, cloud)
 
-Total: ___/35
-Gate: >= 28 = approach. Below = nurture or pass.
+Key insight: "Network effects are the most powerful moat in business."
 
-### 11. The Partner Loop
+### 14. Two-Sided Markets
+
+Core principle: Connect two distinct user groups who provide value to each other.
+
+Framework:
+- Chicken-and-egg problem: Which side to attract first?
+- Subsidize one side: Make one side free/cheap
+- Bootstrap with single-player mode: Value even without the other side
+- Create the loop: Side A attracts Side B which attracts Side A
+
+### 15. Platform Business Models
+
+Platform = marketplace that enables interactions between producers and consumers.
+
+Framework:
+1. Core transaction: What is the value exchange?
+2. Network effects: How do participants attract each other?
+3. Governance: Rules, trust, quality control
+4. Monetization: How does the platform make money?
+
+Key insight: "Platforms do not own the means of production. They own the means
+of connection."
+
+### 16. Co-opetition (Brandenburger/Nalebuff, 1996)
+
+Core principle: Business is NOT a zero-sum game. You can compete AND cooperate.
+
+Framework:
+1. Players: Who are the players in your industry? (customers, suppliers, competitors, complementors)
+2. Added Value: What value do you add to the game?
+3. Rules: What are the rules of the game?
+4. Tactics: How do you influence the game?
+5. Scope: What is the boundary of the game?
+
+Key insight: "Your complementors are as important as your competitors.
+A car is worthless without gas stations. Cars and gas stations are complementors."
+
+---
+
+## PART 4: CHANNEL AND ECOSYSTEM STRATEGIES
+
+### 17. Channel Partner Program
+
+Framework:
+1. Define partner types (referral, reseller, managed services, OEM)
+2. Create partner tiers (bronze, silver, gold, platinum)
+3. Design incentive structure (discounts, rebates, MDF, SPIFFs)
+4. Provide enablement (training, certification, co-marketing)
+5. Measure partner performance (revenue, pipeline, satisfaction)
+6. Manage partner lifecycle (recruit, onboard, develop, retain)
+
+### 18. Ecosystem Strategy
+
+Framework:
+1. Map the ecosystem (who are all the players?)
+2. Identify your role (platform, product, service, infrastructure)
+3. Design value flows (how does value move between players?)
+4. Create governance (rules, standards, quality)
+5. Measure ecosystem health (engagement, growth, satisfaction)
+
+Key insight: "In the modern economy, companies do not compete alone.
+They compete as ecosystems."
+
+---
+
+## PART 5: THE PARTNER LOOP
 
 Research > Qualify > Approach > Structure > Close > Operate > Measure > Skillify
 
@@ -170,42 +262,27 @@ Skillify: Document what worked. Build partner playbooks.
 
 ---
 
-## PART 4: NEGOTIATION AND CLOSING
-
-### 12. Hormozi Approach to Deals
-
-"There is no lack of capital, only a lack of good deals."
-- Lead with the deal, not the ask
-- Show the math (quantified value)
-- Make it easy to say yes (low friction, clear next step)
-- Disney analogy: create content that builds brand, monetize through multiple layers
-
-### 13. Voss Tactical Empathy for Partnerships
-
-Mirror: Reflect their concerns to understand them better.
-Label: Name their fears. "It sounds like you are worried about..."
-Calibration: "How should we structure this so it works for both sides?"
-Black Swan: Discover hidden motivations that change the deal.
-
----
-
 ## ANTI-PATTERNS
 - Partnering with competitors (short-term gain, long-term poison)
 - Misaligned incentives (their success does not depend on yours)
 - No written agreement (handshake deals break under pressure)
 - Not measuring partner-sourced revenue
-- Not checkpointing before high-stakes negotiations
 - Ignoring cultural fit (McKinsey: #1 reason alliances fail)
+- No dedicated alliance manager (Dyer/Kale/Singh)
+- Not checkpointing before high-stakes negotiations
+- Platform without network effects (chicken-and-egg death spiral)
 
 ---
 
 ## SOURCE ATTRIBUTION
 BCG Alliance Framework, McKinsey Partnership Models,
 HBR 4 Requirements for Successful Alliances,
-The Effective Executive (Drucker 1967),
+Alliance Management (Dyer/Kale/Singh), Drucker on Partnerships,
 Marketing Management (Kotler), Competitive Strategy (Porter 1980),
-How Acquisition.com Makes Money (Hormozi 2024),
-4 Paths to Wealth (Hormozi 2024), Trust Framework (Hormozi 2024)
+How Acquisition.com Makes Money (Hormozi), 4 Paths to Wealth (Hormozi),
+Trust Framework (Hormozi), Network Effects (Parker/Van Alstyne/Choudary),
+Co-opetition (Brandenburger/Nalebuff 1996),
+Platform Business Models (Parker/Van Alstyne/Choudary)
 
 ## TEMPLATES
 templates/partner-scorecard.md, templates/deal-structures.md,
