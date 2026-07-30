@@ -1,263 +1,294 @@
 ---
 name: partnership-builder
 description: >-
-  Business development agent with ALL major partnership and alliance frameworks.
-  Covers: BCG Alliance, McKinsey, HBR 4 Requirements, Drucker, Hormozi, Alliance
-  Management, Network Effects, Two-Sided Markets, Co-opetition, Channel Programs,
-  Platform Business Models, and more.
+  Business development agent with EXACT playbooks, specific numbers, battle-tested
+  sequences, exact math, competitive benchmarks. Not framework summaries -- actual
+  execution plans with real benchmarks.
 ---
 
-# partnership-builder -- The Complete Biz Dev Agent
-
-Mandate: Identify, approach, and structure partnerships using every major framework
-in business development history.
+# partnership-builder -- The Complete Partnership Playbook
 
 ---
 
-## SITUATION SELECTOR -- Which Framework to Use
+## SECTION 1: PARTNERSHIP MATH
 
-| Situation | Framework | Why |
-|-----------|-----------|-----|
-| New strategic alliance | BCG Alliance + HBR 4 Requirements | Structure + governance |
-| JV or equity partnership | McKinsey + Alliance Management | Formal structure, shared risk |
-| Channel/partner program | Channel Partner Framework | Scale through partners |
-| Platform/marketplace | Platform Business Models + Network Effects | Two-sided markets |
-| Co-opetition | Brandenburger/Nalebuff | Compete AND cooperate |
-| Referral partnership | Hormozi + Revenue Share | Simple, performance-based |
-| Corporate venture capital | CVC Framework | Invest in innovation |
-| Franchise model | Franchise Framework | Scale through licensing |
-| White-label/reseller | Licensing Framework | IP licensing |
-| Ecosystem design | Ecosystem Strategy | Build partner ecosystems |
+### Revenue Share Formula
+Partner Revenue = Referred Revenue x Commission Rate
+Example: $100K referred revenue x 20% = $20K to partner
 
----
+Break-Even for Partner:
+Partner CAC (time spent on partnership) / Commission per deal = Deals needed
+Example: $50K annual cost / $20K per deal = 2.5 deals to break even
 
-## PART 1: ALLIANCE FRAMEWORKS
+### Joint Venture Math
+JV Total Investment = Your Investment + Partner Investment
+Ownership Split = Investment Proportional (or negotiated)
+Example: You invest $200K (40%), Partner invests $300K (60%)
+Revenue split: 40/60 (or negotiated differently based on contribution)
 
-### 1. BCG Alliance Framework
+### Licensing Revenue Formula
+Licensing Revenue = (Unit Price x Units Sold) x Royalty Rate
+Example: $50 x 10,000 units x 8% = $40,000/year
 
-Types of Alliances:
-1. Supply Alliance: Shared supply chain, joint procurement
-2. Distribution Alliance: Access to each others channels
-3. Complementary Alliance: Products enhance each other
-4. Competitive Alliance: Competitors cooperate on non-core activities
+### Franchise Math
+Franchise Fee: $25K-$50K (one-time)
+Ongoing Royalty: 5-15% of gross revenue
+Marketing Fee: 1-4% of gross revenue
+Average Franchise ROI: 15-20% annual return
+Break-Even: 12-24 months
 
-Governance Models:
-- Contractual (simplest): Written agreement, defined terms
-- Joint Venture (formal): New entity, shared ownership
-- Equity Partnership (deepest): Investment, shared upside
-
-Value Creation Mechanisms:
-- Shared resources (reduce cost)
-- Risk sharing (spread exposure)
-- Market access (new customers)
-- Learning (transfer knowledge)
-- Innovation (co-create)
-
-BCG Decision Framework:
-1. Does it create more value together than apart?
-2. Is the value split fair?
-3. Is the governance structure aligned with value creation?
-4. Can both sides exit cleanly if needed?
-
-### 2. McKinsey Partnership Models
-
-70% of strategic alliances fail. Why?
-- Misaligned incentives
-- Poor governance
-- Cultural clash
-- Lack of trust
-- No clear success metrics
-
-McKinsey 3 Partnership Types:
-1. Strategic Alliance: Cooperation without equity (most common, lowest risk)
-2. Joint Venture: Formal new entity (higher commitment, shared P&L)
-3. Equity Partnership: Investment (deepest alignment, highest risk)
-
-McKinsey Partnership Assessment:
-- Strategic fit: Do strategies align?
-- Operational fit: Can we work together day-to-day?
-- Cultural fit: Do values and speed match?
-- Financial fit: Are the economics compelling?
-
-### 3. HBR 4 Requirements for Successful Alliances
-
-1. Strategic Intent: Both sides must know WHY this alliance exists
-2. Cultural Fit: Values, speed, work style must be compatible
-3. Favorable Economics: Both sides must benefit (not just one)
-4. Organizational Fit: Structures must allow collaboration
-
-Key insight: "Alliances are marriages. They require trust, communication,
-and willingness to invest before you see returns."
-
-### 4. Alliance Management (Dyer, Kale, Singh)
-
-Alliance Lifecycle:
-1. Partner Selection: Due diligence, fit assessment
-2. Alliance Design: Structure, governance, incentives
-3. Alliance Launch: Kick-off, relationship building
-4. Alliance Management: Communication, measurement, adaptation
-5. Alliance Evolution: Expansion, restructuring, or termination
-
-Alliance Manager Role:
-- Dedicated person/team for alliance management
-- Bridge between organizations
-- Monitor performance, resolve conflicts
-- Identify new opportunities
-
-Key insight: "Alliances fail not at the start, but in the management.
-Dedicated alliance management is the difference between success and failure."
-
-### 5. Drucker on Partnerships
-
-"Alliances require trust, not contracts."
-"The best partnerships are where both sides bring something the other cannot build."
-"Measure a partnership by what it produces, not by what it promises."
+### Partner ROI Calculation
+Partner ROI = (Partner-Sourced Revenue - Partnership Cost) / Partnership Cost
+Example: ($500K revenue - $100K cost) / $100K = 4x ROI
 
 ---
 
-## PART 2: DEAL STRUCTURES
+## SECTION 2: PARTNER OUTREACH (Exact Scripts)
 
-### 6. Revenue Share
-When: Complementary products, shared customers
-Terms: % of revenue from referred customers (10-30% typical)
-Duration: Ongoing (as long as customer stays)
-Risk: Low (performance-based)
+### Cold Partner Email Sequence
 
-### 7. Equity Joint Venture
-When: Shared creation of new product/company
-Terms: Ownership split based on contribution
-Duration: Life of the entity
-Risk: Medium (locked in)
+Email 1 (Day 1) -- Value First:
+Subject: Idea for [Partner Company] + [Your Company]
+Body:
+Hi [First Name],
+I have been following [Partner Company] and noticed [specific observation].
+We help [type of company] achieve [specific result].
+I think there is a natural alignment between our audiences.
+Would 15 minutes make sense to explore a potential partnership?
+[Your Name]
 
-### 8. Licensing
-When: Your IP, their distribution
-Terms: Fee per use + minimum guarantees
-Duration: Fixed term (1-5 years typical)
-Risk: Low-Medium
+Email 2 (Day 4) -- Social Proof:
+Subject: Re: Partnership idea
+Body:
+Hi [First Name],
+Since my last email, we launched a partnership with [Similar Company].
+They are seeing [specific result] from the collaboration.
+Here is a quick case study: [Link]
+Would love to explore something similar with you.
+[Your Name]
 
-### 9. Fund Management (Hormozi Model)
-When: You have deal flow, they have capital
-Terms: GP/LP split, hurdle rate (6-8%), carried interest (20%)
-Duration: Fund life (5-7 years typical)
+Email 3 (Day 8) -- Specific Proposal:
+Subject: Quick partnership proposal
+Body:
+Hi [First Name],
+Here is what I am thinking:
+1. We introduce [your product] to your audience as a recommended solution
+2. You earn [X]% commission on referred business
+3. We co-create [content/tool/event] that benefits both audiences
+Estimated value to you: $[X]/month in passive revenue.
+Worth a 15-minute conversation?
+[Your Name]
 
-Hormozi Fund Math:
-- Put in 5% ($5M of $100M)
-- Raise 95% from LPs
-- Use leverage to buy $300M of businesses
-- 20% annual return for 6 years = $900M
-- Pay back debt ($300M)
-- Pay back LPs ($135M)
-- Split remaining ($465M) 50/50 = $232M to you
-- Your $5M = $232M = 46x return
+### LinkedIn Partner Outreach:
+"Hi [First Name] -- I help [type of company] solve [pain point].
+We are looking for complementary partners to co-sell to the same audience.
+Our partners typically see $[X] in additional revenue within [Y] months.
+Would love to explore this. Worth a quick call?"
 
-### 10. Advisory / Fractional
-When: You have expertise, they have need
-Terms: Monthly retainer + performance bonus
-Duration: 6-12 months typical
-Risk: Low
-
-### 11. Franchise Model
-When: Proven business model, want to scale fast
-Terms: Franchise fee + ongoing royalties (5-15%)
-Duration: 5-20 year terms
-Risk: Low (franchisee bears operational risk)
-
-### 12. White-Label / Reseller
-When: Your product, their brand
-Terms: Discount pricing (30-50% off retail), minimum purchase
-Duration: 1-3 year typical
-Risk: Low-Medium
+### Warm Introduction Template:
+"Hi [Mutual Connection], I am reaching out to [Partner Name] about
+a potential partnership. Would you be willing to introduce us?
+Here is a one-liner: [Your Company] helps [audience] achieve [outcome],
+and we think there is a natural fit with [Partner Company]."
 
 ---
 
-## PART 3: NETWORK EFFECTS AND PLATFORMS
+## SECTION 3: PARTNER QUALIFICATION (Exact Scoring)
 
-### 13. Network Effects (Parker, Van Alstyne, Choudary)
+### Partner Scorecard (1-5 per criterion, total /50)
 
-Types:
-- Direct: More users = more value for all (Facebook, WhatsApp)
-- Indirect: More users on one side = more value for other (Uber, Airbnb)
-- Data: More usage = better data = better product (Google, Spotify)
-- Performance: More users = better performance (CDN, cloud)
+Strategic Fit (0-10):
+- Audience overlap (0-5): How much do your target customers overlap?
+- Value chain position (0-5): Are you upstream/downstream/complementary?
 
-Key insight: "Network effects are the most powerful moat in business."
+Capability Fit (0-10):
+- Product/service quality (0-5): How good is their offering?
+- Technical compatibility (0-5): Can your products work together?
 
-### 14. Two-Sided Markets
+Cultural Fit (0-10):
+- Speed of execution (0-5): Do they move at your pace?
+- Communication style (0-5): Can you work together day-to-day?
 
-Core principle: Connect two distinct user groups who provide value to each other.
+Market Position (0-10):
+- Brand strength (0-5): Does their brand enhance yours?
+- Market reach (0-5): Do they access customers you cannot?
 
-Framework:
-- Chicken-and-egg problem: Which side to attract first?
-- Subsidize one side: Make one side free/cheap
-- Bootstrap with single-player mode: Value even without the other side
-- Create the loop: Side A attracts Side B which attracts Side A
+Economic Fit (0-10):
+- Revenue potential (0-5): How much revenue can this generate?
+- Profitability (0-5): Is the partnership economically viable?
 
-### 15. Platform Business Models
+### Gate Thresholds
+>= 40: STRONG -- pursue aggressively
+30-39: DEVELOPING -- fill gaps before committing
+20-29: WEAK -- significant concerns, proceed with caution
+< 20: STOP -- likely not a fit
 
-Platform = marketplace that enables interactions between producers and consumers.
+---
 
-Framework:
+## SECTION 4: PARTNER AGREEMENT STRUCTURE
+
+### Key Terms to Define
+1. Scope: What products/services are covered?
+2. Territory: Where can partners sell?
+3. Exclusivity: Is it exclusive or non-exclusive?
+4. Duration: Initial term and renewal conditions
+5. Revenue Share: Commission rate, payment terms, caps
+6. Performance Minimums: Quotas, activity requirements
+7. Intellectual Property: Who owns what?
+8. Confidentiality: What information is protected?
+9. Termination: How can either party exit?
+10. Dispute Resolution: How are conflicts resolved?
+
+### Standard Partnership Agreement Outline
+1. Parties and effective date
+2. Recitals (background, purpose)
+3. Scope of partnership
+4. Roles and responsibilities
+5. Revenue share / compensation
+6. Intellectual property rights
+7. Confidentiality obligations
+8. Term and termination
+9. Performance metrics and review
+10. Dispute resolution
+11. General provisions (governing law, amendments, etc.)
+
+### Red Flags in Partner Agreements
+- No performance minimums (partner can do nothing and keep the relationship)
+- Unlimited liability (you are on the hook for everything)
+- No exit clause (locked in forever)
+- Vague scope (disputes about what is covered)
+- No confidentiality (your secrets are exposed)
+
+---
+
+## SECTION 5: PARTNER ENABLEMENT (Exact Curriculum)
+
+### Partner Onboarding (30 days)
+Week 1: Company overview, product training, target audience
+Week 2: Sales process, objection handling, demo access
+Week 3: Co-marketing materials, content library, brand guidelines
+Week 4: Certification exam, first joint call, go-live
+
+### Partner Certification Levels
+Bronze: Complete onboarding + pass exam (basic referral)
+Silver: 5+ deals closed + NPS > 8 (active selling)
+Gold: 20+ deals closed + revenue target met (strategic)
+Platinum: 50+ deals closed + co-innovation (exclusive)
+
+### Partner Portal Components
+1. Deal registration (submit and track opportunities)
+2. Content library (co-branded materials, case studies)
+3. Training center (courses, certifications, webinars)
+4. Support tickets (technical and sales support)
+5. Commission tracking (real-time revenue dashboard)
+6. Marketing resources (templates, copy, images)
+
+---
+
+## SECTION 6: PARTNER QBR (Quarterly Business Review)
+
+### QBR Agenda (60 minutes)
+Minutes 0-5: Welcome, agenda review
+Minutes 5-15: Performance review (revenue, pipeline, activities)
+Minutes 15-25: Market feedback (what are you hearing from customers?)
+Minutes 25-35: Joint planning (next quarter priorities)
+Minutes 35-45: Co-marketing opportunities (events, content, campaigns)
+Minutes 45-55: Open discussion (challenges, ideas, feedback)
+Minutes 55-60: Action items, next QBR date
+
+### QBR Metrics to Review
+1. Partner-sourced revenue ($ and % of total)
+2. Partner-influenced revenue (deals where partner was involved)
+3. Pipeline generated (leads, opportunities)
+4. Activity level (joint calls, content created, events)
+5. Customer satisfaction (NPS from partner-sourced customers)
+6. Competitive win rate (vs deals without partner involvement)
+
+---
+
+## SECTION 7: CHANNEL PARTNER PROGRAM (Exact Design)
+
+### Partner Tiers
+Referral Partner: Refers leads, earns 10-15% one-time fee
+Reseller Partner: Sells your product, earns 20-30% margin
+Managed Services Partner: Implements/supports, earns service fees
+Strategic Partner: Co-sell, co-market, equity alignment
+
+### Tier Benefits
+Bronze: Portal access, basic materials, 10% commission
+Silver: Co-marketing budget, priority support, 15% commission
+Gold: Dedicated partner manager, joint events, 20% commission
+Platinum: Executive sponsor, co-development, 25%+ commission
+
+### Partner Recruitment Process
+1. Define Ideal Partner Profile (IPP)
+2. Build target list (100-200 potential partners)
+3. Outreach sequence (email + LinkedIn + warm intros)
+4. Qualify (scorecard >= 30/50)
+5. Pilot (3-month test period)
+6. Onboard (30-day curriculum)
+7. Certify (exam + first deal)
+8. Develop (ongoing enablement)
+
+---
+
+## SECTION 8: NETWORK EFFECTS AND PLATFORMS
+
+### Network Effect Types (with examples)
+Direct: Facebook, WhatsApp (more users = more value for all)
+Indirect: Uber, Airbnb (more drivers = better for riders)
+Data: Google, Spotify (more usage = better product)
+Performance: CDN, cloud (more users = better infrastructure)
+
+### Two-Sided Market Bootstrap Strategy
+Step 1: Attract the "easy" side first (usually supply)
+Step 2: Subsidize the harder side (discounts, free trials)
+Step 3: Create single-player mode (value without the other side)
+Step 4: Build the loop (side A attracts side B which attracts side A)
+Step 5: Optimize liquidity (match supply and demand)
+
+### Platform Business Model Design
 1. Core transaction: What is the value exchange?
 2. Network effects: How do participants attract each other?
 3. Governance: Rules, trust, quality control
-4. Monetization: How does the platform make money?
+4. Monetization: Transaction fee, subscription, freemium
+5. Key metrics: Liquidity, match rate, time to value
 
-Key insight: "Platforms do not own the means of production. They own the means
-of connection."
+---
 
-### 16. Co-opetition (Brandenburger/Nalebuff, 1996)
+## SECTION 9: CO-OPETITION (Compete AND Cooperate)
 
-Core principle: Business is NOT a zero-sum game. You can compete AND cooperate.
+### When to Co-opete
+- Shared infrastructure (cloud providers, payment processors)
+- Industry standards (compatibility, interoperability)
+- Market development (growing the overall market)
+- Regulatory compliance (industry lobbying)
 
-Framework:
-1. Players: Who are the players in your industry? (customers, suppliers, competitors, complementors)
+### Co-opetition Framework (Brandenburger/Nalebuff)
+1. Players: Who are all the players? (customers, suppliers, competitors, complementors)
 2. Added Value: What value do you add to the game?
 3. Rules: What are the rules of the game?
 4. Tactics: How do you influence the game?
 5. Scope: What is the boundary of the game?
 
-Key insight: "Your complementors are as important as your competitors.
-A car is worthless without gas stations. Cars and gas stations are complementors."
+### Complementor vs Competitor
+Complementor: Their product makes yours MORE valuable
+Competitor: Their product makes yours LESS valuable
+Key insight: A car is worthless without gas stations. Cars and gas stations are complementors.
 
 ---
 
-## PART 4: CHANNEL AND ECOSYSTEM STRATEGIES
-
-### 17. Channel Partner Program
-
-Framework:
-1. Define partner types (referral, reseller, managed services, OEM)
-2. Create partner tiers (bronze, silver, gold, platinum)
-3. Design incentive structure (discounts, rebates, MDF, SPIFFs)
-4. Provide enablement (training, certification, co-marketing)
-5. Measure partner performance (revenue, pipeline, satisfaction)
-6. Manage partner lifecycle (recruit, onboard, develop, retain)
-
-### 18. Ecosystem Strategy
-
-Framework:
-1. Map the ecosystem (who are all the players?)
-2. Identify your role (platform, product, service, infrastructure)
-3. Design value flows (how does value move between players?)
-4. Create governance (rules, standards, quality)
-5. Measure ecosystem health (engagement, growth, satisfaction)
-
-Key insight: "In the modern economy, companies do not compete alone.
-They compete as ecosystems."
-
----
-
-## PART 5: THE PARTNER LOOP
+## SECTION 10: THE PARTNERSHIP LOOP
 
 Research > Qualify > Approach > Structure > Close > Operate > Measure > Skillify
 
-Research: Find complementary (not competitive) partners.
-Qualify: Score >= 28/40. BCG/HBR alignment check.
-Approach: Warm intro preferred. Value-first messaging.
-Structure: Match structure to situation (see Part 2).
-Close: Written agreement. Clear terms. Exit clauses.
-Operate: Communication cadence. Success metrics. Escalation path.
-Measure: Revenue attribution. Satisfaction surveys. Relationship health.
+Research: Find complementary partners with audience overlap
+Qualify: Score >= 30/50 on partner scorecard
+Approach: Value-first outreach (email + LinkedIn + warm intro)
+Structure: Match structure to situation (revenue share, JV, licensing)
+Close: Written agreement with clear terms and exit clauses
+Operate: Communication cadence, enablement, co-marketing
+Measure: Partner-sourced revenue, NPS, activity level
 Skillify: Document what worked. Build partner playbooks.
 
 ---
@@ -271,6 +302,8 @@ Skillify: Document what worked. Build partner playbooks.
 - No dedicated alliance manager (Dyer/Kale/Singh)
 - Not checkpointing before high-stakes negotiations
 - Platform without network effects (chicken-and-egg death spiral)
+- No performance minimums (partner can do nothing)
+- Not having an exit clause (locked in forever)
 
 ---
 
@@ -282,8 +315,5 @@ Marketing Management (Kotler), Competitive Strategy (Porter 1980),
 How Acquisition.com Makes Money (Hormozi), 4 Paths to Wealth (Hormozi),
 Trust Framework (Hormozi), Network Effects (Parker/Van Alstyne/Choudary),
 Co-opetition (Brandenburger/Nalebuff 1996),
-Platform Business Models (Parker/Van Alstyne/Choudary)
-
-## TEMPLATES
-templates/partner-scorecard.md, templates/deal-structures.md,
-templates/partner-tracker.md
+Platform Business Models (Parker/Van Alstyne/Choudary),
+Influence (Cialdini 1984), The Effective Executive (Drucker 1967)

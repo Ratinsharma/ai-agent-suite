@@ -1,463 +1,449 @@
 ---
 name: growth-engine
 description: >-
-  Marketing agent with ALL major marketing frameworks. Choose the right framework
-  for every situation. Covers: Kotler, Drucker, Porter, Godin, Christensen, Ellis,
-  AARRR, Reforge, Deiss, Chen, Kano, NPS, Inbound, Content Marketing, StoryBrand,
-  Design Thinking, Lean Canvas, Business Model Canvas, ABM, PLG, and more.
+  Marketing agent with EXACT playbooks, specific numbers, battle-tested sequences,
+  exact math, competitive benchmarks, compensation structures. Not framework
+  summaries -- actual execution plans with real benchmarks.
 ---
 
-# growth-engine -- The Complete Marketing Agent
-
-Mandate: Build and execute marketing strategy by choosing the RIGHT framework
-for the RIGHT situation. This skill contains every major marketing framework.
+# growth-engine -- The Complete Marketing Playbook
 
 ---
 
-## SITUATION SELECTOR -- Which Framework to Use
+## SECTION 1: GROWTH MATH (Know Your Numbers)
 
-| Situation | Framework | Why |
-|-----------|-----------|-----|
-| New product launch | Lean Canvas + JTBD + PMF | Validate before building |
-| Positioning strategy | Kotler STP + Porter 5 Forces | Market analysis + positioning |
-| Content strategy | Content Marketing + StoryBrand | Attract + engage |
-| Growth hacking | AARRR + Reforge + Ellis PMF | Metrics-driven growth |
-| Premium branding | Godin Purple Cow + Brand Architecture | Remarkability |
-| B2B marketing | ABM + Inbound + Content Marketing | Target + nurture |
-| Product-led growth | PLG + Onboarding Optimization | Let product sell |
-| Market analysis | Porter + PESTLE + SWOT | Understand environment |
-| Business model design | Business Model Canvas + Value Prop Canvas | Design + test |
-| Customer retention | NPS + Kano + Customer Journey Map | Measure + improve |
-| Viral growth | Viral Loops + Network Effects + Referral | Compounding |
-| AI-driven marketing | Kotler Marketing 5.0 + Attribution | Technology + measurement |
+### Unit Economics Formulas
+CAC (Customer Acquisition Cost) = Total S&M Spend / New Customers Acquired
+Example: $500K S&M spend / 100 new customers = $5,000 CAC
 
----
+LTV (Lifetime Value) = ARPU x Gross Margin / Monthly Churn Rate
+Example: $200/mo x 80% margin / 5% churn = $3,200 LTV
 
-## PART 1: MARKETING FOUNDATIONS
+LTV:CAC Ratio = LTV / CAC
+Benchmark: 3:1 or higher is healthy. Below 3:1 is unsustainable.
 
-### 1. Kotler Marketing Management
+CAC Payback Period = CAC / (ARPU x Gross Margin)
+Example: $5,000 / ($200 x 80%) = 31 months
+Benchmark: <12 months is great, 12-18 months is acceptable, >18 months is risky
 
-The 5 Levels of Product:
-1. Core Benefit -- What is the buyer really buying? (solution to a problem)
-2. Basic Product -- The tangible product/service
-3. Expected Product -- What buyers expect (features, quality)
-4. Augmented Product -- What exceeds expectations (warranty, service)
-5. Potential Product -- What the product could become (future innovations)
+Magic Number = Net New ARR / S&M Spend (Previous Quarter)
+Example: $200K net new ARR / $500K S&M = 0.4
+Benchmark: >0.75 = invest more. <0.75 = fix efficiency first.
 
-STP Process:
-S -- Segmentation: Divide market into distinct groups (demographic, behavioral, psychographic, geographic)
-T -- Targeting: Evaluate segments (size, growth, accessibility, fit). Select target(s).
-P -- Positioning: Create a clear, distinctive, desirable position in customer minds.
+NRR (Net Revenue Retention) = (Beginning ARR + Expansion - Contraction - Churn) / Beginning ARR
+Example: ($1M + $200K - $50K - $100K) / $1M = 105%
+Benchmark: >100% = growing without new customers. >120% = excellent.
 
-The 4Ps:
-Product: What you sell (features, quality, design, branding)
-Price: What you charge (premium, competitive, penetration, skimming)
-Place: Where you sell (channels, distribution, online, retail)
-Promotion: How you communicate (advertising, PR, content, sales)
+Viral Coefficient (k) = Invitations Sent x Conversion Rate
+Example: Each user invites 3 friends, 20% convert = k = 0.6
+Benchmark: k > 1 = exponential growth. k < 1 = need other engines.
 
-The 7Ps (extended):
-+ People: Who delivers the service (training, culture, interaction)
-+ Process: How the service is delivered (workflow, efficiency)
-+ Physical Evidence: Tangible cues (office, website, packaging)
+### Content Marketing Benchmarks
+Blog post to rank on page 1: 3-6 months with consistent publishing
+Email open rate (cold): 1-5%
+Email open rate (warm/list): 20-30%
+Email click rate (warm/list): 2-5%
+Landing page conversion rate: 2-5%
+Webinar registration to attendance: 30-40%
+Social media engagement rate: 1-3%
+Video completion rate: 20-40%
 
-The 4Cs (customer perspective):
-Customer solution (not product), Cost to customer (not price),
-Convenience (not place), Communication (not promotion)
+### SEO Benchmarks
+Time to rank for low-competition keyword: 3-6 months
+Time to rank for medium-competition keyword: 6-12 months
+Time to rank for high-competition keyword: 12-24 months
+Organic traffic growth rate: 10-20% month-over-month (healthy)
+Domain authority growth: 5-10 points per year (active site)
 
-Marketing 4.0 (Kotler 2017): Digital transformation. Customer journey is no longer linear.
-Marketing 5.0 (Kotler 2021): AI-driven marketing. New tech stack. Data-driven personalization.
-
-### 2. Drucker Marketing Principles
-
-"The purpose of business is to create a customer."
-"Marketing is too important to leave to the marketing department."
-"Innovation and marketing are the only two results-producing functions."
-"The aim of marketing is to know and understand the customer so well the product
-or service fits him and sells itself."
-
-Key principles:
-- Marketing is not a department, it is the entire business
-- Do first things first (effectiveness over efficiency)
-- Build on strengths, not fix weaknesses
-
-### 3. Porter Competitive Strategy
-
-5 Forces (Industry Analysis):
-1. Threat of New Entrants (barriers to entry)
-2. Bargaining Power of Suppliers
-3. Bargaining Power of Buyers
-4. Threat of Substitutes
-5. Competitive Rivalry (existing competitors)
-
-3 Generic Strategies:
-- Cost Leadership: Be the cheapest (Walmart, Ryanair)
-- Differentiation: Be unique (Apple, Tesla)
-- Focus: Serve a niche (Ferrari, Rolls Royce)
-
-Value Chain:
-Primary: Inbound Logistics > Operations > Outbound Logistics > Marketing/Sales > Service
-Support: Firm Infrastructure, HR Management, Technology Development, Procurement
+### Paid Ads Benchmarks
+Google Ads CPC (SaaS): $2-$8
+Google Ads CPC (B2B): $5-$15
+LinkedIn Ads CPC: $5-$15
+Facebook Ads CPC: $0.50-$2
+Google Ads conversion rate: 3-5%
+LinkedIn Ads conversion rate: 1-3%
+Facebook Ads conversion rate: 1-3%
 
 ---
 
-## PART 2: GROWTH FRAMEWORKS
+## SECTION 2: CONTENT CALENDAR (Exact Weekly/Monthly Plan)
 
-### 4. Sean Ellis Product-Market Fit
+### Weekly Content Rhythm
+Monday: Blog post (1,500-2,500 words, SEO-optimized)
+Tuesday: LinkedIn post (insight, data, or story)
+Wednesday: Email newsletter (curated insights + original)
+Thursday: Twitter/X thread (repurpose blog post)
+Friday: Case study or customer story
 
-The Question: "How would you feel if you could no longer use this product?"
-- Very disappointed: 40%+ = You have PMF
-- Somewhat disappointed: 30%+
-- Not disappointed: <30% = No PMF yet
+### Monthly Content Rhythm
+Week 1: Pillar content (comprehensive guide, 3,000+ words)
+Week 2: Supporting content (2-3 blog posts linking to pillar)
+Week 3: Guest content (guest posts, podcast appearances, interviews)
+Week 4: Conversion content (case studies, webinars, free tools)
 
-Action: If PMF confirmed, double down on growth. If not, iterate product first.
+### Content Pillar Framework (3-5 pillars)
+Pillar 1: [Core topic -- what you solve]
+Pillar 2: [Industry insight -- what you know]
+Pillar 3: [Customer success -- what you prove]
+Pillar 4: [Thought leadership -- what you believe]
+Pillar 5: [Product education -- how you work]
 
-### 5. AARRR Pirate Metrics (Dave McClure)
-
-A -- Acquisition: How do users find you? (SEO, ads, referrals, content)
-A -- Activation: Do users have a great first experience? (onboarding, aha moment)
-R -- Retention: Do users come back? (daily/weekly/monthly active, engagement)
-R -- Revenue: Do users pay? (conversion, ARPU, LTV)
-R -- Referral: Do users tell others? (viral coefficient, NPS)
-
-Focus: Fix the leaky bucket first. Retention before Acquisition.
-
-### 6. Reforge Growth Loops
-
-A growth loop is a self-reinforcing cycle:
-Input > Action > Output > Feed back as Input
-
-Types:
-- Acquisition Loop: User invites friend > Friend joins > Friend invites more
-- Engagement Loop: User creates content > Content drives traffic > Traffic creates users
-- Monetization Loop: User pays > Revenue funds growth > Growth brings more users
-
-Key insight: Loops beat funnels. Funnels are one-way. Loops compound.
-
-### 7. Andrew Chen Growth Laws
-
-Law of Shittiness: Every marketing channel degrades over time.
-What worked yesterday will not work tomorrow. You must constantly find new channels.
-
-Viral Coefficient (k): k = invitations sent x conversion rate
-- k > 1: Viral growth (exponential)
-- k < 1: Decay (need other growth engines)
-
-Key insight: "Growth is not about finding one hack. It is about building a system
-that compounds over time."
-
-### 8. Viral Loop Design
-
-Components:
-1. Trigger: What prompts the user to share? (incentive, emotion, utility)
-2. Action: What is the sharing mechanism? (referral link, social post, invite)
-3. Reward: What does the referrer get? (credit, features, status)
-4. Investment: What does the referee get? (value, onboarding, community)
-
-Viral Loop Types:
-- Natural viral: Product is inherently shareable (Hotmail, Dropbox)
-- Incentivized viral: Rewards for sharing (Dropbox, Uber)
-- Word-of-mouth: Organic recommendation (Apple, Tesla)
-- Content viral: Content spreads itself (memes, tools)
+### Content Repurposing Engine
+1 blog post becomes:
+- 1 LinkedIn post (summary + key takeaway)
+- 1 Twitter/X thread (5-10 tweets)
+- 1 email newsletter (curated + original insight)
+- 1 short-form video (60-90 seconds, key point)
+- 1 infographic (data visualization)
+- 1 podcast segment (5-10 minutes)
 
 ---
 
-## PART 3: GODIN FRAMEWORKS
+## SECTION 3: EMAIL SEQUENCES (Exact Templates)
 
-### 9. Permission Marketing (Seth Godin, 1999)
+### Welcome Sequence (5 emails over 10 days)
 
-Core principle: Earn attention, do not buy it.
+Email 1 (Immediate): Welcome + value
+Subject: Welcome -- here is what you get
+Body:
+Hi [First Name],
+Welcome to [Company]. Here is what you can expect:
+[Value proposition in 1 sentence]
+To get started, here is [immediate value -- guide, template, tool]:
+[Link]
+Looking forward to helping you [achieve outcome].
+[Your Name]
 
-Framework:
-1. Anticipated: The customer expects your message
-2. Personal: The message is relevant to them
-3. Relevant: The message is useful to them
-4. Over time: Build trust through consistent value
+Email 2 (Day 2): Quick win
+Subject: Your first quick win
+Body:
+Hi [First Name],
+Most people start with [specific action]. Here is how to do it in 5 minutes:
+[Step-by-step instructions]
+Let me know how it goes.
+[Your Name]
 
-Key insight: "Permission marketing is the privilege (not the right) of delivering
-anticipated, personal, and relevant messages to people who actually want to get them."
+Email 3 (Day 4): Social proof
+Subject: How [Customer] achieved [Result]
+Body:
+Hi [First Name],
+[Customer] was in the same spot as you. Here is what they did:
+[Specific story with metrics]
+Here is the playbook they followed: [Link]
+[Your Name]
 
-### 10. Purple Cow (Seth Godin, 2003)
+Email 4 (Day 7): Deepen engagement
+Subject: Advanced tips for [topic]
+Body:
+Hi [First Name],
+You have been using [product] for a week. Here are 3 advanced tips:
+1. [Tip with specific benefit]
+2. [Tip with specific benefit]
+3. [Tip with specific benefit]
+[Your Name]
 
-Core principle: Be remarkable or be invisible.
+Email 5 (Day 10): Check-in
+Subject: Quick check-in
+Body:
+Hi [First Name],
+How is everything going? Any questions I can help with?
+If you have not started yet, here is the quickest path to your first win:
+[Link to getting started guide]
+[Your Name]
 
-Framework:
-- If everyone likes it, no one loves it
-- The opposite of remarkable is "very good" (not bad)
-- Remarkable products market themselves
-- Safe is risky (being average kills)
+### Re-engagement Sequence (3 emails over 7 days)
 
-Key insight: "In crowded markets, the only way to succeed is to be remarkable.
-If you are not remarkable, you are invisible."
+Email 1 (Day 1): "We miss you"
+Subject: We noticed you have been quiet
+Body:
+Hi [First Name],
+It has been a while since you logged in. Here is what you are missing:
+[New feature, content, or result since they last engaged]
+Want to pick up where you left off? [Link]
 
-### 11. Tribes (Seth Godin, 2008)
+Email 2 (Day 4): Value bomb
+Subject: Something you might find useful
+Body:
+Hi [First Name],
+Regardless of whether you use our product, here is something valuable:
+[Share genuinely useful content -- no pitch]
+[Your Name]
 
-Core principle: A tribe is a group connected to one another, connected to a leader,
-connected to an idea.
+Email 3 (Day 7): Last chance
+Subject: Should we stop emailing?
+Body:
+Hi [First Name],
+I want to respect your inbox. Should I keep sending you updates?
+[Yes -- keep me posted] | [No -- unsubscribe]
+[Your Name]
 
-Framework:
-- Find your tribe (the group that cares about what you do)
-- Lead the tribe (share your vision, inspire action)
-- Connect the tribe (enable members to connect with each other)
-- The internet enables tribes to form around anything
+### Upsell/Cross-sell Sequence
 
----
-
-## PART 4: CUSTOMER AND PRODUCT FRAMEWORKS
-
-### 12. Jobs-to-Be-Done (Clayton Christensen)
-
-Core principle: Customers do not buy products. They hire them to do a job.
-
-Framework:
-1. What job is the customer trying to get done?
-2. What are the functional, emotional, and social dimensions?
-3. What are the current solutions and their shortcomings?
-4. What would the ideal solution look like?
-
-Key insight: Competitors are not other products in your category.
-Competitors are whatever the customer is currently using to get the job done.
-
-### 13. Kano Model
-
-5 Categories of Customer Satisfaction:
-1. Must-Be (Basic): Expected. Absence causes dissatisfaction. Presence does not excite.
-2. One-Dimensional (Performance): More is better. Linear relationship.
-3. Attractive (Delighters): Unexpected. Absence does not disappoint. Presence delights.
-4. Indifferent: Does not affect satisfaction either way.
-5. Reverse: Some customers want it, others do not.
-
-Application: Map features to categories. Ensure Must-Be, optimize One-Dimension,
-add Attractive. Avoid Indifferent and Reverse.
-
-### 14. Net Promoter Score (Fred Reichheld, 2003)
-
-Question: "How likely are you to recommend us to a friend?" (0-10)
-- Promoters (9-10): Loyal enthusiasts
-- Passives (7-8): Satisfied but vulnerable
-- Detractors (0-6): Unhappy, potential damage
-
-NPS = % Promoters - % Detractors
-- Above 0: Good
-- Above 30: Great
-- Above 70: World-class
-
-### 15. Customer Journey Mapping (McKinsey)
-
-Stages:
-1. Awareness: Customer becomes aware of need
-2. Consideration: Customer evaluates options
-3. Decision: Customer chooses a solution
-4. Onboarding: Customer starts using product
-5. Retention: Customer continues using product
-6. Advocacy: Customer recommends to others
-
-For each stage: What is the customer thinking? Feeling? Doing? What are the pain points?
+Email 1: Usage trigger
+Subject: You are getting a lot of value from [feature]
+Body:
+Hi [First Name],
+I noticed you have been using [feature] heavily. Customers like you
+typically upgrade to [plan] because [specific benefit].
+Here is what you would get: [list 3 key features]
+Want to see it in action? [Link to upgrade page]
 
 ---
 
-## PART 5: BUSINESS MODEL FRAMEWORKS
+## SECTION 4: LANDING PAGE STRUCTURE (Exact Framework)
 
-### 16. Business Model Canvas (Alexander Osterwalder, 2010)
+### Above the Fold (5 seconds to capture attention)
+Headline: [Benefit-driven, not feature-driven]
+Subheadline: [Who you help + what you help them achieve]
+CTA: [Single, clear call-to-action]
+Social proof: [Logo bar, "Trusted by X companies"]
 
-9 Building Blocks:
-1. Customer Segments: Who are your customers?
-2. Value Propositions: What value do you deliver?
-3. Channels: How do you reach customers?
-4. Customer Relationships: What type of relationship?
-5. Revenue Streams: How do you make money?
-6. Key Resources: What do you need to deliver value?
-7. Key Activities: What must you do well?
-8. Key Partnerships: Who do you need?
-9. Cost Structure: What are the major costs?
+### Problem Section
+Headline: "The Problem"
+3 pain points with icons and short descriptions
+Each pain point: "You are losing $[X] because of [problem]"
 
-### 17. Value Proposition Canvas (Osterwalder)
+### Solution Section
+Headline: "How [Product] Solves This"
+3 features that directly address the 3 pain points
+Each feature: [Feature name] + [Benefit] + [Screenshot or demo]
 
-Customer Profile:
-- Customer Jobs: What are they trying to get done?
-- Pains: What annoys them? What risks do they face?
-- Gains: What outcomes do they want? What would delight them?
+### Proof Section
+3 customer testimonials with:
+- Name, title, company
+- Photo
+- Specific metric ("We increased [X] by [Y]%")
+- Logo
 
-Value Map:
-- Products & Services: What you offer
-- Pain Relievers: How you reduce pains
-- Gain Creators: How you create gains
+### ROI Calculator
+Interactive calculator showing:
+Current cost of problem: $____
+Your solution cost: $____
+Net savings: $____
+ROI: ____x
 
-Fit: Your Value Map must align with their Customer Profile.
+### FAQ Section
+Top 5-7 objections as FAQ entries
+Each answer: Direct, specific, with proof
 
-### 18. Lean Canvas (Ash Maurya, 2010)
-
-Modified Business Model Canvas for startups:
-1. Problem: Top 3 problems
-2. Customer Segments: Who has the problem?
-3. Unique Value Proposition: Single clear message
-4. Solution: Top 3 features
-5. Channels: How to reach customers
-6. Revenue Streams: How to make money
-7. Cost Structure: Major costs
-8. Key Metrics: What to measure
-9. Unfair Advantage: What cannot be copied
-
----
-
-## PART 6: CONTENT AND STORYTELLING
-
-### 19. StoryBrand (Donald Miller)
-
-Framework:
-1. A Character: The customer is the hero (not your brand)
-2. Has a Problem: External, internal, philosophical
-3. And Meets a Guide: Your brand is the guide (not the hero)
-4. Who Gives Them a Plan: Steps to follow
-5. And Calls Them to Action: Direct and transitional
-6. That Helps Them Avoid Failure: What happens if they do not act
-7. And Ends in Success: The happy ending
-
-Key insight: "The customer is the hero. You are the guide. Never confuse the two."
-
-### 20. Content Marketing Institute Framework (Joe Pulizzi)
-
-Framework:
-1. Define your audience (who, what, why)
-2. Create a content mission statement (audience + outcome + differentiator)
-3. Build content pillars (3-5 core topics)
-4. Choose distribution channels (owned, earned, paid)
-5. Create content (quality > quantity)
-6. Measure and optimize (engagement, conversion, revenue)
-
-Key insight: "Content marketing is not about what you sell. It is about the
-problems you solve for your audience."
-
-### 21. Pixar Story Rules
-
-Rule 1: You admire a character for trying more than for their successes.
-Rule 2: You gotta keep in mind what's interesting to you as an audience member,
-        not what's fun to do as a writer.
-Rule 3: Theme: Why am I telling this story? What is the belief?
-Rule 4: Once upon a time... Every day... One day... Because of that...
-        Until finally...
-Rule 5: Simplify. Focus. Combine characters. Hop over detours.
+### Final CTA
+Headline: "Ready to [achieve outcome]?"
+Subheadline: "Join [X] companies that [achieved result]"
+CTA: [Same as above the fold]
 
 ---
 
-## PART 7: GROWTH HACKING AND PLG
+## SECTION 5: A/B TEST PROTOCOL
 
-### 22. Product-Led Growth (Wes Bush)
+### What to Test (in priority order)
+1. Headlines (biggest impact on conversion)
+2. CTA (copy, color, placement)
+3. Social proof (logos, testimonials, numbers)
+4. Form length (fewer fields = more conversions)
+5. Page layout (above-the-fold content)
+6. Pricing presentation (anchoring, decoy)
 
-Core principle: Let the product sell itself. Free trial > sales demo.
+### A/B Test Rules
+- Test ONE variable at a time
+- Run until statistical significance (95% confidence)
+- Minimum sample size: 100 conversions per variation
+- Never stop a test early because of "early results"
+- Document every test and result
 
-Framework:
-1. Free trial or freemium (low barrier to entry)
-2. Aha moment (quick time-to-value)
-3. Onboarding (guide to success)
-4. Conversion (upgrade when value is clear)
-5. Expansion (upsell, cross-sell)
-
-Key insight: "In PLG, the product is the primary driver of acquisition,
-conversion, and expansion."
-
-### 23. RICE Scoring (Intercom)
-
-Score = (Reach x Impact x Confidence) / Effort
-- Reach: How many people will this affect?
-- Impact: How much will it move the needle? (0.25, 0.5, 1, 2, 3)
-- Confidence: How sure are we? (50%, 80%, 100%)
-- Effort: Person-months required
-
-Use to prioritize marketing and product initiatives.
-
-### 24. North Star Metric
-
-Define the ONE metric that best captures the core value your product delivers.
-- Airbnb: Nights booked
-- Facebook: Daily active users
-- Slack: Messages sent
-- Spotify: Time spent listening
-
-Everything else is a supporting metric. Align the team around the North Star.
-
-### 25. OKR Framework (John Doerr)
-
-Objectives: Qualitative, inspirational, time-bound
-Key Results: Quantitative, measurable, 3-5 per objective
-
-Example:
-Objective: Become the #1 sales tool for SMBs
-KR1: Increase MRR from $100K to $200K
-KR2: Grow from 500 to 1000 customers
-KR3: Achieve NPS of 70+
+### A/B Test Documentation Template
+Test Name: [What are you testing?]
+Hypothesis: "If we [change X], then [metric Y] will improve by [Z]%"
+Variation A: [Control -- current version]
+Variation B: [Treatment -- new version]
+Metric: [Primary metric -- conversion rate, click rate, etc.]
+Duration: [How long to run]
+Result: [Winner, lift percentage, statistical significance]
+Learnings: [What did we learn? Apply to next test?]
 
 ---
 
-## PART 8: ACCOUNT-BASED MARKETING
+## SECTION 6: PRICING PSYCHOLOGY
 
-### 26. ABM Framework (ITSMA)
+### 3-Tier Pricing (Most Effective)
+Good: $29/mo | Better: $79/mo (MOST POPULAR) | Best: $199/mo
+The "Better" tier is designed to be the target. "Good" is too limited.
+"Best" makes "Better" look like a deal.
 
-Tier 1 (1:1): Personalized for each account. High-touch. Enterprise.
-Tier 2 (1:Few): Personalized for clusters of similar accounts.
-Tier 3 (1:Many): Programmatic ABM at scale.
+### Price Anchoring
+Show the annual price first: "$948/year (save 40% vs monthly)"
+Then show monthly: "$79/month"
+The annual price makes monthly feel cheap.
 
-ABM Steps:
-1. Identify target accounts (ICP + intent data)
-2. Research accounts (pain, stakeholders, timing)
-3. Create personalized content (for each account/cluster)
-4. Engage across channels (email, social, events, direct mail)
-5. Measure and optimize (account engagement, pipeline, revenue)
+### Decoy Effect
+Option A: 1 project for $29
+Option B: 5 projects for $79 (target)
+Option C: 10 projects for $89 (decoy -- makes B look like a steal)
 
----
+### Charm Pricing
+$99 instead of $100 (10% perception gap for 1% price difference)
+$997 instead of $1,000
+$49 instead of $50
 
-## PART 9: NETWORK EFFECTS AND PLATFORMS
-
-### 27. Network Effects (Parker, Van Alstyne, Choudary)
-
-Types:
-- Direct: More users = more value for all users (Facebook, WhatsApp)
-- Indirect: More users on one side = more value for other side (Uber, Airbnb)
-- Data: More usage = better data = better product (Google, Spotify)
-- Performance: More users = better performance (CDN, cloud)
-
-Key insight: "Network effects are the most powerful moat in business.
-Once established, they are nearly impossible to replicate."
-
-### 28. Two-Sided Markets
-
-Core principle: Connect two distinct user groups who provide value to each other.
-
-Framework:
-- Chicken-and-egg problem: Which side to attract first?
-- Subsidize one side: Make one side free/cheap to attract them
-- Bootstrap with single-player mode: Value even without the other side
-- Create the loop: Side A attracts Side B which attracts Side A
+### Value-Based Pricing Formula
+Value = (Customer's Current Cost) x (Your Improvement Factor)
+Example: Customer loses $100K/year. You improve by 30%. Value = $30K/year.
+Price at 20-30% of value = $6K-$9K/year.
 
 ---
 
-## PART 10: MEASUREMENT AND ATTRIBUTION
+## SECTION 7: REFERRAL PROGRAM MATH
 
-### 29. Attribution Models
+### Referral Incentive Structure
+For SaaS:
+- Referrer: 1 month free per referred customer
+- Referee: 20% off first 3 months
+- Break-even: Referred customer stays 3+ months
 
-First-Touch: Credit to first interaction (awareness focus)
-Last-Touch: Credit to last interaction (conversion focus)
-Multi-Touch: Credit distributed across all touchpoints
-Time-Decay: More credit to recent touchpoints
-Position-Based: 40% first, 40% last, 20% middle
+For E-commerce:
+- Referrer: $20 credit per referral
+- Referee: $20 off first order
+- Break-even: Average order value > $40
 
-### 30. Marketing Mix Modeling
+### Viral Loop Math
+Current users: 1,000
+Invites per user: 3
+Conversion rate: 15%
+New users per cycle: 1,000 x 3 x 0.15 = 450
+Viral coefficient: 0.45
+Cycles to saturate: ~10 (diminishing returns)
 
-Measure the impact of each marketing channel on revenue.
-Account for: seasonality, competitive activity, external factors.
-Use: budget allocation, channel optimization, forecasting.
+### Referral Program Best Practices
+- Make it easy (one-click referral link)
+- Reward both sides (referrer AND referee)
+- Show progress ("You have referred 2 of 3 for a free month")
+- Celebrate advocates (public recognition, badges)
+- Time-limit referrals (creates urgency)
 
 ---
 
-## THE GROWTH LOOP
+## SECTION 8: WEBINAR PLAYBOOK (Exact Run-of-Show)
+
+### Pre-Webinar (2 weeks before)
+Week 2: Create landing page, write email sequence, promote on social
+Week 1: Send reminder emails (Day -7, Day -3, Day -1)
+Day of: Test tech, prepare slides, rehearse
+
+### Webinar Run-of-Show (60 minutes)
+Minutes 0-5: Welcome, housekeeping, agenda
+Minutes 5-10: Problem statement ("Here is why this matters")
+Minutes 10-25: Content (teach something valuable)
+Minutes 25-30: Case study ("Here is proof this works")
+Minutes 30-45: Demo or workshop ("Here is how to do it")
+Minutes 45-50: Offer ("Here is how we can help further")
+Minutes 50-55: Q&A
+Minutes 55-60: Recap, CTA, next steps
+
+### Post-Webinar (3 days after)
+Day 1: Thank you email + replay link
+Day 2: Case study + testimonial
+Day 3: Limited-time offer (72-hour window)
+
+---
+
+## SECTION 9: ACCOUNT-BASED MARKETING (Exact Playbook)
+
+### Tier 1 ABM (1:1 -- Enterprise Accounts)
+Research (2 hours per account):
+- Company: Revenue, funding, headcount, tech stack, recent news
+- Stakeholders: 5-10 decision makers/influencers
+- Pain hypothesis: Based on industry + company situation
+- Value hypothesis: Specific ROI for their situation
+
+Outreach (multi-channel):
+Day 1: LinkedIn connection + personalized note
+Day 3: Direct mail (physical package to key stakeholder)
+Day 5: Email with personalized video (Loom, 2-3 minutes)
+Day 7: Phone call to Champion
+Day 10: Invite to exclusive event/dinner
+Day 14: Follow up with case study
+
+### Tier 2 ABM (1:Few -- Cluster Accounts)
+Group 10-50 accounts by similar pain/use case
+Create cluster-specific content (not 1:1, but close)
+Use targeted ads + email sequences
+Host cluster-specific webinars
+
+### Tier 3 ABM (1:Many -- Programmatic)
+Use intent data to identify accounts showing buying signals
+Automated personalized emails at scale
+Retargeting ads across channels
+Content syndication to target accounts
+
+---
+
+## SECTION 10: METRICS DASHBOARD (Exact KPIs)
+
+### North Star Metric
+Define ONE metric that captures core value delivery.
+Examples:
+- SaaS: Weekly Active Users (WAU) or Revenue per User
+- Marketplace: Gross Merchandise Value (GMV)
+- Content: Time Spent or Content Created
+
+### Leading Indicators (predict future revenue)
+1. Pipeline created ($/month)
+2. Marketing qualified leads (MQLs/month)
+3. Demo requests (per week)
+4. Trial signups (per week)
+5. Content engagement (views, shares, comments)
+
+### Lagging Indicators (confirm past performance)
+1. Revenue closed ($/month)
+2. Customer acquisition cost (CAC)
+3. Customer lifetime value (LTV)
+4. Net revenue retention (NRR)
+5. Churn rate (%/month)
+
+### Weekly Metrics Review
+Every Monday:
+1. Pipeline: Created, converted, lost
+2. Content: Views, engagement, conversions
+3. Ads: Spend, CPC, CTR, conversion rate
+4. Email: Open rate, click rate, unsubscribe rate
+5. Revenue: Closed, forecast, run rate
+
+---
+
+## SECTION 11: GROWTH EXPERIMENTATION
+
+### ICE Scoring for Experiments
+Impact (1-10): How much will this move the needle?
+Confidence (1-10): How sure are we this will work?
+Ease (1-10): How easy is this to implement?
+Score = (I + C + E) / 3
+
+### Growth Experiment Template
+Experiment: [What are we testing?]
+Hypothesis: "If we [do X], then [metric Y] will improve by [Z]%"
+Channel: [Where will we run this?]
+Metric: [What will we measure?]
+Duration: [How long?]
+Budget: [How much will it cost?]
+ICE Score: [I + C + E / 3]
+
+### Monthly Experiment Cadence
+- Run 3-5 experiments per month
+- Kill losers fast (2 weeks max if no signal)
+- Double down on winners (allocate budget)
+- Document everything (wins AND losses)
+
+---
+
+## SECTION 12: THE GROWTH LOOP
 
 Strategy > Create > Distribute > Measure > Optimize > Skillify
 
-Step 1 -- Strategy: STP + Business Model Canvas + Lean Canvas.
-Step 2 -- Create: Content pillars + StoryBrand + RPM method.
-Step 3 -- Distribute: Multi-channel + Permission Marketing + ABM.
-Step 4 -- Measure: AARRR + NPS + Kano + Attribution.
-Step 5 -- Optimize: A/B test everything. Kill what does not work.
-Step 6 -- Skillify: Document what worked. Build playbooks.
+Strategy: STP + Business Model Canvas + Lean Canvas
+Create: Content pillars + StoryBrand + RPM + exact email sequences
+Distribute: Multi-channel + Permission Marketing + ABM + viral loops
+Measure: AARRR + NPS + Kano + attribution + exact benchmarks
+Optimize: A/B test everything. Kill losers. Double down on winners.
+Skillify: Document what worked. Build playbooks. Share with team.
 
 ---
 
@@ -469,7 +455,9 @@ Step 6 -- Skillify: Document what worked. Build playbooks.
 - Feature-focused instead of job-focused (Christensen)
 - Being safe instead of remarkable (Godin: Purple Cow)
 - Not having a North Star Metric
-- Not checkpointing before campaign launches
+- Not A/B testing (guessing instead of knowing)
+- Not tracking unit economics (CAC, LTV, payback)
+- Content without distribution (build it and they will NOT come)
 
 ---
 
@@ -481,14 +469,9 @@ Permission Marketing (Godin 1999), Tribes (Godin 2008),
 Crossing the Chasm (Moore 1991), Innovators Dilemma (Christensen 1997),
 The Lean Startup (Ries 2011), Hacking Growth (Ellis 2017),
 Product-Led Growth (Warden 2019), Reforge frameworks (2020s),
-Business Model Canvas (Osterwalder 2010), Value Proposition Canvas (Osterwalder),
+Business Model Canvas (Osterwalder 2010), Value Proposition Canvas,
 Lean Canvas (Maurya 2010), StoryBrand (Miller 2017),
-Content Marketing Institute (Pulizzi), Never Split the Difference (Voss 2016),
-Straight Line System (Belfort), Hormozi frameworks (2020s),
-Network Effects (Parker/Van Alstyne/Choudary),
-Kano Model (1984), NPS (Reichheld 2003), OKR (Doerr 2018),
-ABM (ITSMA), RICE (Intercom), North Star Metric
-
-## TEMPLATES
-templates/content-calendar.md, templates/growth-loop-designer.md,
-templates/campaign-tracker.md, templates/repurpose-engine.md
+Content Marketing Institute (Pulizzi), Kano Model (1984),
+NPS (Reichheld 2003), OKR (Doerr 2018), ABM (ITSMA),
+RICE (Intercom), North Star Metric, Network Effects
+(Parker/Van Alstyne/Choudary), Hormozi frameworks (2020s)
